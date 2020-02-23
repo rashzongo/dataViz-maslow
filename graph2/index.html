@@ -5,9 +5,12 @@
 	<!-- call file css -->
 	<link rel="stylesheet" href="dc.css">
 	<link rel="stylesheet" href="style.css">
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 	
 </head>
 <body>
+	<div id="nav-placeholder">
+	</div>
 	<div class="text">
 		<h2> Nombre de voitures selon la marque </h2>
 		<hr  width = "50%" size="1" color="black">
@@ -43,4 +46,9 @@ marquechart.dimension(marquedim)
 });
   </script>
 </body>
+<script>
+	$(function(){
+	  $("#nav-placeholder").load("/sidebar.html");
+	});
+</script>
 </html>

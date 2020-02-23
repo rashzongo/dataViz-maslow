@@ -1,0 +1,14 @@
+{
+  "name": "d76da830941c1e45",
+  "main": "d76da830941c1e45@149.js",
+  "version": "149.0.0",
+  "homepage": "https://observablehq.com/d/d76da830941c1e45",
+  "author": {
+    "name": "cabikhalil",
+    "url": "https://observablehq.com/@cabikhalil"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
