@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Data Viz Project</title>
+    <link rel="stylesheet" type="text/css" href="./index.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="./traitement.js"></script>
+    <script src="./csv2json.js"></script>
+    <script src="./tree.js"></script>
+</head>
+
+<body>
+    <div id="titre">
+        <h1> Liste des deuxièmes voitures acheter par chaque type de client</h1>
+    </div>
+
+    <div id="filescsv">
+        <h4 title="Utiliser le fichier .R de fusion pour la joiture en cas de besoin">
+            Veuillez choisir le fichier CSV comportant jointure Client et Immatriculation ./common/data/...
+            <br>Afin de le convertir en json suivant une propre format.            
+        </h4>    
+        <input type="file" accept=".csv" name="upload_csv" id="upload_csv" />
+        <span id="upload_csv$"></span>
+        <button type="button" onclick="check_input('upload_csv');" > Valider </button>
+    </div>
+
+    <div id="filesjson">
+        <h4>
+            Veuillez choisir le fichier JSON comportant les données à afficher ./common/data/...
+            <br>Le fichier vient d'être génére depuis csv en cas de retard attendez la fenetre de sauvegarde.
+        </h4>
+        <input type="file" accept=".json" name="upload_json" id="upload_json">
+        <span id="upload_json$"></span>
+        <button type="button" onclick="check_input('upload_json');" > Valider </button>
+    </div>
+
+    <div id="graphe">
+        
+    </div>
+
+</body>
+
+</html>

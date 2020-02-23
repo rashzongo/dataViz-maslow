@@ -1,0 +1,19 @@
+pour que l'arbre fonctionne correctement le fichier 
+json generer doit etre sous cette forme.
+
+{
+    "name": "Top Level",
+    "children": [
+      { 
+        "name": "Level 2: A",
+        "children": [
+          { "name": "Son of A" },
+          { "name": "Daughter of A" }
+        ]
+      },
+      { "name": "Level 2: B" }
+    ]
+}
+
+
+le save des fichier doit se faire tjr dans le meme endroit que index.html
