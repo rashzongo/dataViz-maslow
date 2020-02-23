@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <title>Data Viz Project</title>
     <link rel="stylesheet" type="text/css" href="./index.css">
+    <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://d3js.org/d3.v5.min.js"></script>
     <script src="./traitement.js"></script>
     <script src="./csv2json.js"></script>
@@ -12,6 +13,8 @@
 </head>
 
 <body>
+    <div id="nav-placeholder">
+    </div>
     <div id="titre">
         <h1> Liste des deuxièmes voitures acheter par chaque type de client</h1>
     </div>
@@ -41,5 +44,10 @@
     </div>
 
 </body>
+<script>
+	$(function(){
+	  $("#nav-placeholder").load("/sidebar.html");
+	});
+</script>
 
 </html>

@@ -1,32 +1,99 @@
 <!DOCTYPE html>
-<meta charset="utf-8">
-<title>DataViz MASLOW</title>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+</head>
 <body>
+
+  <div id="nav-placeholder">
+  </div>
+  <div>
+    <img id="uca" src="./common/logos/Image3.png"></br>
+    <img id="mbds" src="./common/logos/Image1.jpg">
+    <img id="miage" src="./common/logos/Image1.png">
+    
+  </div>
+  <div id="block"> 
     <h2>Data visualization</h2>
     <h2>Groupe 2 : MASLOW</h2>
-
-    Liste des graphes :
-    <ol>
+    Membres du groupe :
+    <ul>
         <li>
-            <a href="./graph0/index.html">
-                Repartition des ventes `marque|modèle`
-                des véhicules suivant les critères socio-économiques des acheteurs
-            </a>
+                AAYADI El Mehdi
    
         </li>
 
         <li>
-            <a href="./graph1/index.html">
-                Liste des deuxiemes voiture acheté par chaque type de client.
-            </a>
+                ABI KHALIL Charbel
         </li>
         
 
         <li>
-        <a href="./graph2/index.html">
-                Nombre de voitures selon la marque 
-            </a>
+                BENSASSI Rania 
+        </li>
+
+        <li>
+                BOUKADIDA Imen
+        </li>
+        <li>
+                DAHER Amin
+        </li>
+        <li>
+                ZONGO Rachida
+        </li>
+    </ul>
+
+    Liste des graphes (Cliquez sur le button en haut à gauche pour ouvrir le menu et naviger) :
+    <ol>
+        <li>
+                Repartition des ventes `marque|modèle`
+                des véhicules suivant les critères socio-économiques des acheteurs.
+   
+        </li>
+
+        <li>
+                Liste des deuxiemes voiture acheté par chaque type de client.
+        </li>
+        
+
+        <li>
+                Nombre de voitures selon la marque.
+        </li>
+
+        <li>
+                Capacité de la voiture en fonction de la situation familiale.
+        </li>
+        <li>
+                Nombre de Vente par modèle.
+        </li>
+        <li>
+              Répartition des modeles des vehicules en fonction de prix, puissance et typemodel.
         </li>
     </ol>
+  </div>
 
+
+<style>
+  #block {
+  margin-left: 300px;
+  }
+  #uca {
+  margin-left: 600px;
+  }
+  #mbds {
+  margin-left: 520px;
+  }
+  #miage {
+  margin-left: 20px;
+  }
+</style>
+
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("sidebar.html");
+});
+</script>
+   
 </body>
