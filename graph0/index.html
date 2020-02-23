@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>
+    Repartition des ventes `marque|modèle` des véhicules suivant les critères socio-économiques des acheteurs
+</title>
+<link rel="stylesheet" type="text/css" href="./styles/style.css">
+<link rel="stylesheet" type="text/css" href="./styles/style2.css">
+<body>
+<script src="./libs/d3.min.js"></script>
+<script type="module" src="./scripts/launch.js"></script>
+<h2>
+    Marques/Modèles de véhicules les plus vendus suivant
+     les critères socio-économiques des clients
+</h2>
+<div id='fileSelector' style="display: block;">
+    <form method="dialog" onsubmit="loadFile()">
+        <div>
+            <p>
+                <br>
+                <ol>
+                    <li>Les fichiers de données (choisis dans le formulaire) doivent se trouver dans le dossier './data'.</li>
+                    <li>Le csv doit avoir les colonnes suivantes :
+                        <ul>
+                            <li>"age"</li>
+                            <li>"sexe"</li>
+                            <li>"situationFamiliale"</li>
+                            <li>"taux"</li>
+                            <li>"nbEnfantsAcharge"</li>
+                            <li>"marque"</li>
+                            <li>"nom"</li>
+                        </ul>
+                        Exemple : les fichiers '.data/clients_immatriculations.csv' 
+                        et './data/immatriculations_2.csv'.
+                    </li>
+                </ol>
+            </p>
+        </div>
+        <br>
+        <div>
+            <label for="csvFile">Fichier CSV : </label>
+            <input type="file" name="csvFile" id="csvFile" accept=".csv" required />
+        </div>
+        <br>
+        <button type="submit">Construire le graphe</button>
+    </form>
+</div>
+
+<div id="filters" class="filters" style="display: none;">
+    <h3>Filtres</h3>
+    <label for="ageInterval">Tranche d'age : </label>
+    <select name="ageInterval" id="ageInterval" onchange="rebuildSunburst()">
+        <option value="" selected>Aucun</option>
+        <option value="0">18-30</option>
+        <option value="1">30-50</option>
+        <option value="2">50-70</option>
+        <option value="3">+70</option>
+        <option value="-1">N/D</option>
+    </select>
+    <label for="sexe">Sexe : </label>
+    <select name="sexe" id="sexe" onchange="rebuildSunburst()">
+        <option value="" selected>Aucun</option>
+        <option value="0">Femme</option>
+        <option value="1">Homme</option>
+        <option value="-1">N/D</option>
+    </select>
+    
+    <label for="maritalStatus">Statut marital : </label>
+    <select name="maritalStatus" id="maritalStatus" onchange="rebuildSunburst()">
+        <option value="" selected>Aucun</option>
+        <option value="0">Célibataire</option>
+        <option value="1">En couple</option>
+        <option value="2">Marié(e)</option>
+        <option value="3">Divorcé(e)</option>
+        <option value="-1">N/D</option>
+    </select>
+    <br>
+    <br>
+    <label for="taux">Capacité d'endettement : </label>
+    <select name="taux" id="taux" onchange="rebuildSunburst()">
+        <option value="" selected>Aucun</option>
+        <option value="0">-100</option>
+        <option value="1">100-500</option>
+        <option value="2">500-1000</option>
+        <option value="3">+1000</option>
+        <option value="-1">N/D</option>
+    </select>
+
+    <label for="nbEnfants">Nombre d'enfants à charge : </label>
+    <select name="nbEnfants" id="nbEnfants" onchange="rebuildSunburst()">
+        <option value="" selected>Aucun</option>
+        <option value="0">0</option>
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">+5</option>
+        <option value="-1">N/D</option>
+    </select>
+    <br>
+    <br>
+    <br>
+</div>
+
+<div id="noData"></div>
+</body>

@@ -1,0 +1,1171 @@
+age,sexe,taux,situationFamiliale,nbEnfantsAcharge,2eme voiture,immatriculation,immatriculation,marque,nom,puissance,longueur,nbPlaces,nbPortes,couleur,occasion,prix
+40,M,400,En Couple,1,false,7982 PU 33,7982 PU 33,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+42,M,525,En Couple,1,false,7501 DZ 26,7501 DZ 26,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+28,M,1066,C�libataire,0,false,6461 JH 46,6461 JH 46,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+44,F,237,C�libataire,0,false,8430 FZ 18,8430 FZ 18,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+75,M,563,C�libataire,0,false,4429 QQ 61,4429 QQ 61,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+56,M,840,En Couple,0,false,3509 CA 60,3509 CA 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+28,M,414,En Couple,2,false,5010 JT 73,5010 JT 73,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+42,M,209,C�libataire,0,false,6353 BI 12,6353 BI 12,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+59,M,775,En Couple,1,false,8452 QA 32,8452 QA 32,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+43,M,438,C�libataire,0,false,6369 FT 49,6369 FT 49,BMW,120i,150,moyenne,5,5,blanc,true,25060
+53,M,1056,En Couple,0,false,378 QN 86,378 QN 86,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+37,M,1206,En Couple,2,true,3271 YD 50,3271 YD 50,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+58,M,150,C�libataire,0,false,79 XA 39,79 XA 39,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,true,15644
+80,M,221,En Couple,0,false,1574 EU 28,1574 EU 28,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+32,M,173,En Couple,2,false,8768 QS 95,8768 QS 95,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+56,M,466,C�libataire,0,false,548 HQ 47,548 HQ 47,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+48,M,973,Seule,1,false,2940 CE 72,2940 CE 72,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+18,F,1175,En Couple,3,true,5816 HM 54,5816 HM 54,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+59,M,1064,En Couple,0,false,5250 ZW 33,5250 ZW 33,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+18,F,427,En Couple,3,false,9804 EI 73,9804 EI 73,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+32,M,463,C�libataire,0,false,1285 NW 69,1285 NW 69,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+39,F,167,En Couple,0,false,7435 GS 44,7435 GS 44,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+56,F,176,En Couple,3,false,4715 JW 22,4715 JW 22,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+53,F,1027,En Couple,0,true,6740 TG 66,6740 TG 66,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+28,F,530,C�libataire,0,false,3977 CD 89,3977 CD 89,Lancia,Ypsilon 1.4 16V,90,courte,5,3,noir,false,13500
+54,Femme,228,C�libataire,0,false,1845 IC 25,1845 IC 25,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+28,M,1105,C�libataire,0,false,424 TF 25,424 TF 25,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+49,M,151,C�libataire,0,false,5936 YH 25,5936 YH 25,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+48,M,791,En Couple,2,false,2387 IJ 76,2387 IJ 76,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+25,M,469,En Couple,2,false,9384 ZJ 98,9384 ZJ 98,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+45,M,408,En Couple,3,true,534 WM 10,534 WM 10,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+55,M,445,En Couple,3,false,5508 SV 63,5508 SV 63,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+66,M,153,En Couple,1,false,2928 IQ 42,2928 IQ 42,Fiat,Croma 2.2,147,longue,5,5,blanc,true,17346
+84,F,576,En Couple,3,false,3163 KZ 59,3163 KZ 59,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+74,F,482,Seule,1,false,8081 SJ 17,8081 SJ 17,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+45,M,577,C�libataire,0,false,7590 IA 55,7590 IA 55,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+48,M,1157,En Couple,1,false,1100 TG 62,1100 TG 62,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+35,M,203,En Couple,2,true,8738 ME 47,8738 ME 47,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+24,F,423,En Couple,1,false,6646 FX 41,6646 FX 41,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+57,M,1318,Seule,1,false,5594 QW 46,5594 QW 46,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+21,M,446,En Couple,3,false,3364 YX 26,3364 YX 26,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+27,M,427,En Couple,2,true,7840 KR 30,7840 KR 30,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+49,M,426,En Couple,4,false,4401 HS 91,4401 HS 91,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+59,M,949,C�libataire,0,false,7556 QH 70,7556 QH 70,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+53,F,231,En Couple,0,false,21 DY 48,21 DY 48,Seat,Toledo 1.6,102,longue,5,5,rouge,false,18880
+23,F,538,C�libataire,0,false,9835 ND 54,9835 ND 54,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+44,M,562,En Couple,0,false,6942 TF 75,6942 TF 75,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+60,M,567,En Couple,4,false,5769 OI 36,5769 OI 36,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+43,M,553,En Couple,1,false,8042 XU 44,8042 XU 44,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+26,M,438,En Couple,1,false,3047 TQ 46,3047 TQ 46,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+73,M,584,En Couple,2,false,730 HC 84,730 HC 84,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+26,M,525,C�libataire,0,false,9357 FC 43,9357 FC 43,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+74,M,541,En Couple,0,false,7233 CA 97,7233 CA 97,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+72,M,455,En Couple,2,false,520 GL 50,520 GL 50,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+56,M,1350,C�libataire,0,false,7603 FM 12,7603 FM 12,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+27,F,1201,En Couple,2,false,8869 JH 49,8869 JH 49,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+45,F,547,C�libataire,0,false,9414 YH 33,9414 YH 33,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+55,M,154,En Couple,0,false,1603 BE 69,1603 BE 69,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,bleu,false,30000
+28,M,515,C�libataire,0,false,1987 RR 67,1987 RR 67,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+28,F,496,Seule,2,false,9733 QT 89,9733 QT 89,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+73,M,493,En Couple,3,false,5013 HL 89,5013 HL 89,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+80,M,500,En Couple,0,false,6557 VJ 80,6557 VJ 80,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+27,F,1264,En Couple,0,true,4184 JS 27,4184 JS 27,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+36,F,204,En Couple,2,false,6290 DZ 32,6290 DZ 32,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+39,M,428,En Couple,1,false,1163 FD 35,1163 FD 35,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+27,M,561,En Couple,2,false,1738 WD 70,1738 WD 70,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+38,M,995,En Couple,2,false,462 WL 34,462 WL 34,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+53,M,1260,Seule,3,false,9664 NG 21,9664 NG 21,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+51,Femme,178,C�libataire,0,false,8580 AS 27,8580 AS 27,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,true,8540
+25,F,528,En Couple,1,false,3006 YB 98,3006 YB 98,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+74,M,462,C�libataire,0,false,9490 FA 46,9490 FA 46,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+41,M,520,En Couple,1,false,3828 DZ 67,3828 DZ 67,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+19,M,1091,En Couple,2,true,445 QD 43,445 QD 43,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+34,M,892,En Couple,2,false,4463 RU 63,4463 RU 63,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+44,Femme,174,En Couple,0,false,6048 BB 44,6048 BB 44,Renault,Laguna 2.0T,170,longue,5,5,bleu,true,19110
+72,M,750,C�libataire,0,false,6834 NH 55,6834 NH 55,Mercedes,A200,136,moyenne,5,5,bleu,false,25900
+31,F,523,C�libataire,0,false,2947 DD 40,2947 DD 40,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+52,M,516,En Couple,2,false,9536 HA 37,9536 HA 37,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+32,F,460,C�libataire,0,false,7828 KR 89,7828 KR 89,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+54,M,492,Seule,1,false,3390 DY 96,3390 DY 96,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+37,M,739,En Couple,3,false,8449 EU 86,8449 EU 86,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+66,F,456,En Couple,0,false,6870 BO 56,6870 BO 56,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+33,M,444,En Couple,2,false,1740 MM 75,1740 MM 75,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+81,M,1356,En Couple,0,false,2047 NS 95,2047 NS 95,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+ ,M,1179,C�libataire,0,false,4277 VS 97,4277 VS 97,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+20,F,409,C�libataire,0,false,2565 PF 27,2565 PF 27,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+32,M,1073,En Couple,4,true,995 ZQ 79,995 ZQ 79,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+34,M,208,C�libataire,0,false,1462 VP 89,1462 VP 89,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,true,15644
+57,M,455,En Couple,0,false,3547 FS 25,3547 FS 25,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+44,M,199,En Couple,2,false,5874 KH 35,5874 KH 35,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+81,M,422,En Couple,0,false,4742 BO 98,4742 BO 98,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+56,F,1145,En Couple,4,false,9787 RW 40,9787 RW 40,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+62,M,745,En Couple,3,false,4879 CG 90,4879 CG 90,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+58,M,425,En Couple,1,false,8770 WO 60,8770 WO 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+33,M,484,En Couple,1,true,3474 AD 16,3474 AD 16,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+51,M,418,C�libataire,0,false,9919 IN 53,9919 IN 53,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+44,M,203,C�libataire,0,false,5342 NZ 37,5342 NZ 37,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+55,M,927,En Couple,0,false,5049 MW 77,5049 MW 77,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+80,F,220,C�libataire,0,false,2851 JS 56,2851 JS 56,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+26,M,541,En Couple,4,false,1914 LB 54,1914 LB 54,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+50,Masculin,893,En Couple,1,true,5 DA 92,5 DA 92,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+42,F,1378,C�libataire,0,false,2588 BO 47,2588 BO 47,Audi,A3 2.0 FSI,150,moyenne,5,5,gris,false,28500
+75,M,561,En Couple,0,false,4646 PW 33,4646 PW 33,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+35,M,1184,C�libataire,0,false,765 ZC 36,765 ZC 36,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+58,M,430,En Couple,4,false,8735 ZZ 83,8735 ZZ 83,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+47,M,499,En Couple,0,false,142 QV 69,142 QV 69,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+40,M,450,En Couple,0,false,4551 XR 44,4551 XR 44,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+56,M,922,En Couple,1,true,1728 AN 50,1728 AN 50,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+38,M,582,En Couple,3,false,41 VG 71,41 VG 71,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+29,M,454,C�libataire,0,false,8725 XK 18,8725 XK 18,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+20,Masculin,920,En Couple,0,false,9395 YV 42,9395 YV 42,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+27,M,528,C�libataire,0,false,9572 XR 55,9572 XR 55,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+45,F,229,En Couple,2,false,4289 YU 76,4289 YU 76,Nissan,Primera 1.6,109,longue,5,5,blanc,false,18650
+30,M,209,En Couple,1,false,4981 TT 57,4981 TT 57,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+49,M,795,Seule,2,false,8981 JS 35,8981 JS 35,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+34,M,1209,En Couple,2,false,353 VN 28,353 VN 28,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+65,M,1053,En Couple,1,false,3570 OX 48,3570 OX 48,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+30,F,248,C�libataire,0,false,5155 OJ 36,5155 OJ 36,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,true,15644
+54,M,799,C�libataire,0,false,316 MA 20,316 MA 20,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+24,F,216,C�libataire,0,false,2969 EB 96,2969 EB 96,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+55,M,192,C�libataire,0,false,3081 AT 10,3081 AT 10,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+28,F,421,En Couple,4,true,3234 QX 57,3234 QX 57,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+64,M,411,C�libataire,0,false,9618 FL 57,9618 FL 57,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+26,M,861,En Couple,0,false,1729 WE 27,1729 WE 27,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+37,M,150,En Couple,0,false,2290 UK 19,2290 UK 19,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,blanc,false,30000
+19,M,555,En Couple,1,false,3688 VO 62,3688 VO 62,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+76,M,187,En Couple,0,false,3605 OQ 75,3605 OQ 75,Seat,Toledo 1.6,102,longue,5,5,rouge,false,18880
+19,F,406,C�libataire,0,false,1054 WS 52,1054 WS 52,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+59,F,458,En Couple,1,false,5274 PX 46,5274 PX 46,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+26,M,438,En Couple,2,false,6089 NY 16,6089 NY 16,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+28,M,489,En Couple,2,false,5121 PA 86,5121 PA 86,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+55,M,519,En Couple,0,false,1556 MO 64,1556 MO 64,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+19,M,1111,En Couple,1,false,7630 FQ 18,7630 FQ 18,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+25,F,959,En Couple,2,false,1978 ST 23,1978 ST 23,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+61,M,236,En Couple,1,false,3155 OC 98,3155 OC 98,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+43,M,1058,C�libataire,0,false,344 CE 71,344 CE 71,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+33,Masculin,220,C�libataire,0,false,5753 XY 84,5753 XY 84,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+36,F,221,Seule,2,false,6734 MQ 27,6734 MQ 27,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+39,M,568,C�libataire,0,false,9303 KH 85,9303 KH 85,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+55,M,480,En Couple,2,false,9566 UQ 47,9566 UQ 47,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+51,M,792,En Couple,4,false,169 YT 42,169 YT 42,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+22,M,176,En Couple,1,true,2283 BW 49,2283 BW 49,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+73,M,761,En Couple,2,false,3610 AA 32,3610 AA 32,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+35,M,700,En Couple,2,false,7867 NW 17,7867 NW 17,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+25,M,164,En Couple,3,false,6313 ZI 19,6313 ZI 19,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+24,M,910,C�libataire,0,false,5221 WO 72,5221 WO 72,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+22,F,150,En Couple,0,false,4615 XJ 95,4615 XJ 95,Ford,Mondeo 1.8,125,longue,5,5,noir,true,16730
+29,M,597,En Couple,3,false,1155 CJ 49,1155 CJ 49,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+72,M,150,En Couple,0,false,9799 BP 83,9799 BP 83,Fiat,Croma 2.2,147,longue,5,5,blanc,true,17346
+29,M,1353,C�libataire,0,false,8833 EW 25,8833 EW 25,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+73,M,439,C�libataire,0,false,6221 GS 61,6221 GS 61,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+20,M,1221,En Couple,3,false,9563 WU 53,9563 WU 53,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+23,M,519,En Couple,4,false,7615 UH 96,7615 UH 96,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+44,M,428,C�libataire,0,false,6482 EN 76,6482 EN 76,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+51,M,191,En Couple,2,false,6646 WQ 36,6646 WQ 36,Fiat,Croma 2.2,147,longue,5,5,gris,true,17346
+35,M,595,C�libataire,0,false,6807 GY 87,6807 GY 87,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+23,M,443,C�libataire,0,false,6941 FE 20,6941 FE 20,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+80,F,476,C�libataire,0,false,5598 NI 97,5598 NI 97,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+82,M,956,C�libataire,0,false,2720 HC 18,2720 HC 18,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+53,M,961,Seule,2,false,1596 HK 75,1596 HK 75,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+37,Masculin,430,En Couple,0,false,5806 EL 11,5806 EL 11,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+60,M,908,En Couple,3,false,8857 BX 29,8857 BX 29,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+ ,M,426,En Couple,1,false,1192 RE 88,1192 RE 88,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+56,M,185,C�libataire,0,false,63 RX 87,63 RX 87,Nissan,Almera 1.8,115,moyenne,5,5,noir,false,16450
+71,M,560,C�libataire,0,false,3551 ND 59,3551 ND 59,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+32,M,1331,En Couple,4,false,5496 YF 79,5496 YF 79,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+51,M,217,En Couple,0,true,7529 IY 26,7529 IY 26,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+45,F,412,En Couple,3,false,5027 KK 33,5027 KK 33,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+76,M,477,En Couple,3,false,1739 SB 12,1739 SB 12,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+45,M,511,En Couple,0,false,9294 HZ 70,9294 HZ 70,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+52,M,590,En Couple,4,false,4096 FQ 86,4096 FQ 86,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+75,M,747,En Couple,2,true,9629 QD 87,9629 QD 87,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+22,Masculin,1146,En Couple,2,true,1536 ES 39,1536 ES 39,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+45,M,220,En Couple,4,false,8930 IG 94,8930 IG 94,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,gris,false,31790
+51,M,533,En Couple,2,false,681 VR 59,681 VR 59,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+50,M,525,C�libataire,0,false,2578 EE 95,2578 EE 95,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+21,F,537,En Couple,2,true,6618 OB 75,6618 OB 75,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+22,M,234,C�libataire,0,false,4470 WI 58,4470 WI 58,Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,false,7500
+57,F,1211,En Couple,4,false,7442 KC 22,7442 KC 22,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+74,M,461,En Couple,4,false,6390 TJ 28,6390 TJ 28,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+58,M,467,En Couple,2,false,2853 HN 54,2853 HN 54,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+77,M,442,C�libataire,0,false,239 KB 87,239 KB 87,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+18,M,163,En Couple,1,false,6263 YF 15,6263 YF 15,Renault,Laguna 2.0T,170,longue,5,5,rouge,true,19110
+57,M,1077,En Couple,1,false,7694 MS 94,7694 MS 94,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+43,M,223,C�libataire,0,false,7534 IX 23,7534 IX 23,Peugeot,1007 1.4,75,courte,5,5,blanc,true,9625
+34,F,527,En Couple,3,true,4243 FT 51,4243 FT 51,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+19,M,1215,C�libataire,0,false,7443 OI 59,7443 OI 59,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+44,M,196,C�libataire,0,false,6319 FD 94,6319 FD 94,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+41,M,411,Seule,3,false,2289 BB 41,2289 BB 41,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+33,F,496,Seule,1,false,7141 ZM 16,7141 ZM 16,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+37,M,?,C�libataire,0,false,8980 MQ 19,8980 MQ 19,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+41,M,1093,En Couple,3,false,8652 UC 55,8652 UC 55,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+49,F,204,En Couple,4,false,1195 VI 10,1195 VI 10,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+19,M,166,C�libataire,0,false,9018 OM 75,9018 OM 75,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,true,15644
+26,M,510,Seule,2,false,7863 BN 30,7863 BN 30,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+25,F,534,C�libataire,0,false,1114 JI 54,1114 JI 54,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+26,M,167,En Couple,1,true,8537 CK 10,8537 CK 10,Peugeot,1007 1.4,75,courte,5,5,blanc,true,9625
+46,M,504,C�libataire,0,false,7943 LC 56,7943 LC 56,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+48,F,536,En Couple,0,false,4359 EV 67,4359 EV 67,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+57,F,452,C�libataire,0,false,5646 IU 10,5646 IU 10,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+61,M,519,En Couple,2,false,6726 RK 67,6726 RK 67,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+48,M,718,C�libataire,0,false,6735 IX 35,6735 IX 35,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+30,F,1148,C�libataire,0,false,8785 RJ 18,8785 RJ 18,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+35,M,732,En Couple,4,false,2860 FH 97,2860 FH 97,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+28,F,400,En Couple,1,true,4176 QU 64,4176 QU 64,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+26,M,536,C�libataire,0,false,9176 CH 46,9176 CH 46,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+56,F,170,En Couple,0,true,6129 GW 32,6129 GW 32,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+21,M,218,En Couple,4,false,6713 FO 81,6713 FO 81,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+19,F,596,En Couple,0,false,1123 ZE 89,1123 ZE 89,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+78,F,891,C�libataire,0,false,1191 KT 51,1191 KT 51,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+39,F,1078,En Couple,3,false,9973 MU 25,9973 MU 25,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+28,F,580,En Couple,3,true,58 RM 90,58 RM 90,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+50,M,585,En Couple,2,true,2059 MV 88,2059 MV 88,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+23,M,582,C�libataire,0,false,9118 OT 26,9118 OT 26,BMW,120i,150,moyenne,5,5,bleu,true,25060
+77,F,713,C�libataire,0,false,9129 WP 23,9129 WP 23,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+22,M,182,C�libataire,0,false,2034 ES 97,2034 ES 97,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+53,Masculin,208,C�libataire,0,false,8373 BS 94,8373 BS 94,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644
+58,M,507,En Couple,3,false,7972 GO 38,7972 GO 38,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+29,M,877,C�libataire,0,false,5928 OF 22,5928 OF 22,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+19,F,549,C�libataire,0,false,7670 UM 75,7670 UM 75,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+40,M,247,C�libataire,0,false,1677 XE 39,1677 XE 39,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,true,16029
+20,M,499,En Couple,2,false,3484 OQ 83,3484 OQ 83,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+58,F,479,C�libataire,0,false,1153 AP 35,1153 AP 35,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+26,M,585,C�libataire,0,false,5179 PG 50,5179 PG 50,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+51,M,1315,En Couple,2,false,8529 PA 15,8529 PA 15,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+21,M,544,En Couple,4,false,907 VQ 53,907 VQ 53,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+48,M,530,En Couple,4,true,9182 OS 90,9182 OS 90,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+28,F,599,En Couple,1,false,5846 RW 66,5846 RW 66,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+78,M,726,En Couple,4,false,9099 NQ 28,9099 NQ 28,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+28,M,490,En Couple,0,false,3494 PZ 79,3494 PZ 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+57,M,990,En Couple,3,true,317 FN 75,317 FN 75,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+29,M,1057,En Couple,2,false,7466 RR 41,7466 RR 41,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+76,M,1293,Seule,3,false,3962 QW 38,3962 QW 38,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+27,F,1384,En Couple,2,true,1665 XL 10,1665 XL 10,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+23,M,461,En Couple,2,false,7178 XJ 90,7178 XJ 90,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+26,M,?,En Couple,3,false,5356 OE 81,5356 OE 81,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+42,M,1043,En Couple,0,false,1481 MK 19,1481 MK 19,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+70,M,476,C�libataire,0,false,7872 OP 50,7872 OP 50,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+46,M,727,En Couple,0,false,1506 UA 33,1506 UA 33,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+31,F,448,En Couple,0,false,8177 VZ 47,8177 VZ 47,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+33,M,598,En Couple,2,true,5701 RW 42,5701 RW 42,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+49,F,539,C�libataire,0,false,5144 ZK 45,5144 ZK 45,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+25,M,193,En Couple,3,false,7265 SI 67,7265 SI 67,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,bleu,false,30000
+37,M,1300,En Couple,1,false,5358 SX 74,5358 SX 74,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+60,M,249,C�libataire,0,false,7850 OM 75,7850 OM 75,Nissan,Almera 1.8,115,moyenne,5,5,noir,false,16450
+48,F,516,C�libataire,0,false,9918 YF 23,9918 YF 23,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+52,M,515,En Couple,4,false,2660 BW 35,2660 BW 35,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+51,M,185,En Couple,4,false,2486 RY 29,2486 RY 29,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+50,F,461,En Couple,1,false,3301 CJ 95,3301 CJ 95,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+30,F,724,C�libataire,0,false,854 RQ 76,854 RQ 76,Audi,A3 2.0 FSI,150,moyenne,5,5,gris,false,28500
+25,F,778,En Couple,1,true,9862 KS 63,9862 KS 63,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+71,M,161,C�libataire,0,false,6926 VQ 35,6926 VQ 35,Nissan,Almera 1.8,115,moyenne,5,5,noir,false,16450
+22,M,172,Seule,3,false,3522 UU 94,3522 UU 94,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+58,F,485,En Couple,4,true,404 DP 33,404 DP 33,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+76,M,599,En Couple,0,false,278 MM 82,278 MM 82,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+23,M,575,C�libataire,0,false,3484 DD 35,3484 DD 35,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+47,M,425,En Couple,2,true,1967 NI 17,1967 NI 17,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+29,M,220,C�libataire,0,false,4669 II 14,4669 II 14,Dacia,Logan 1.6 MPI,90,moyenne,5,5,gris,false,7500
+76,M,1077,En Couple,1,false,8926 KW 31,8926 KW 31,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+68,M,1067,En Couple,4,false,3506 HU 13,3506 HU 13,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+49,F,572,C�libataire,0,false,6326 FK 39,6326 FK 39,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+28,M,-1,C�libataire,0,false,2710 TU 20,2710 TU 20,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+36,M,196,C�libataire,0,false,8412 MY 20,8412 MY 20,Dacia,Logan 1.6 MPI,90,moyenne,5,5,noir,false,7500
+80,M,505,En Couple,3,false,9078 CX 34,9078 CX 34,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+55,F,511,En Couple,2,false,2390 ZH 61,2390 ZH 61,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+55,M,213,En Couple,3,false,2803 VY 79,2803 VY 79,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+30,F,1180,C�libataire,0,false,5052 WH 16,5052 WH 16,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+75,F,519,C�libataire,0,false,8077 UL 21,8077 UL 21,Lancia,Ypsilon 1.4 16V,90,courte,5,3,blanc,false,13500
+47,M,598,En Couple,3,false,5514 TV 82,5514 TV 82,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+23,F,581,En Couple,4,false,6616 AX 69,6616 AX 69,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+22,M,1050,En Couple,0,false,2283 CF 57,2283 CF 57,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+27,M,536,En Couple,1,false,5834 NC 82,5834 NC 82,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+42,F,592,En Couple,2,false,6895 IU 97,6895 IU 97,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+26,Femme,245,C�libataire,0,false,6282 CB 27,6282 CB 27,Nissan,Almera 1.8,115,moyenne,5,5,rouge,false,16450
+20,F,1341,C�libataire,0,false,3989 AV 87,3989 AV 87,Audi,A3 2.0 FSI,150,moyenne,5,5,bleu,false,28500
+30,M,946,C�libataire,0,false,3458 GO 10,3458 GO 10,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+44,M,990,En Couple,2,false,593 WW 52,593 WW 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+35,F,536,C�libataire,0,false,9742 FI 38,9742 FI 38,Mini,Copper 1.6 16V,115,courte,5,5,rouge,true,12740
+45,F,178,C�libataire,0,false,9031 IZ 68,9031 IZ 68,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+31,M,407,C�libataire,0,false,6731 IJ 69,6731 IJ 69,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+27,Homme,402,C�libataire,0,false,6541 IN 45,6541 IN 45,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+51,M,552,En Couple,2,false,5752 YE 79,5752 YE 79,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+58,M,550,C�libataire,0,false,1564 PL 65,1564 PL 65,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+55,M,-1,C�libataire,0,false,2167 DU 47,2167 DU 47,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+23,F,734,C�libataire,0,false,6624 TY 30,6624 TY 30,Audi,A3 2.0 FSI,150,moyenne,5,5,bleu,false,28500
+78,F,526,En Couple,3,false,348 LC 56,348 LC 56,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+69,F,550,C�libataire,0,false,2147 CY 94,2147 CY 94,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+59,M,224,En Couple,0,false,6684 CT 22,6684 CT 22,Renault,Laguna 2.0T,170,longue,5,5,noir,true,19110
+75,M,1224,En Couple,4,true,5349 OQ 58,5349 OQ 58,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+84,F,517,C�libataire,0,false,1375 BR 93,1375 BR 93,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+25,M,838,En Couple,1,false,9430 EK 30,9430 EK 30,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+50,M,1311,C�libataire,0,false,351 GN 71,351 GN 71,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+40,M,423,En Couple,0,false,250 SR 90,250 SR 90,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+63,M,498,En Couple,0,true,8726 VI 85,8726 VI 85,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+46,M,786,En Couple,0,true,2228 GT 34,2228 GT 34,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+83,F,234,En Couple,0,false,6707 YB 34,6707 YB 34,Ford,Mondeo 1.8,125,longue,5,5,rouge,true,16730
+45,M,1341,C�libataire,0,false,6426 RG 20,6426 RG 20,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+63,M,429,En Couple,3,false,7525 FP 44,7525 FP 44,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+52,M,202,C�libataire,0,false,8039 JA 83,8039 JA 83,Dacia,Logan 1.6 MPI,90,moyenne,5,5,rouge,false,7500
+28,M,1294,En Couple,3,false,5742 WC 66,5742 WC 66,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+37,M,591,En Couple,1,true,7603 RR 46,7603 RR 46,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+19,M,1175,Seule,3,false,4544 HA 79,4544 HA 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+37,M,574,En Couple,0,false,9517 RQ 76,9517 RQ 76,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+44,M,195,En Couple,3,false,5699 KS 48,5699 KS 48,Volvo,S80 T6,272,tr�s longue,5,5,rouge,true,35350
+25,M,150,En Couple,0,false,3457 PT 87,3457 PT 87,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+83,M,472,C�libataire,0,false,9053 RX 82,9053 RX 82,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+41,M,733,C�libataire,0,false,4210 SP 48,4210 SP 48,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+49,M,501,En Couple,4,false,3335 YY 91,3335 YY 91,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+34,M,518,En Couple,0,true,9425 XA 25,9425 XA 25,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+59,M,987,Seule,2,false,6303 ZN 53,6303 ZN 53,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+25,F,1327,En Couple,2,false,1826 QD 64,1826 QD 64,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+50,M,594,En Couple,3,false,3584 UI 72,3584 UI 72,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+83,M,581,Seule,1,false,8558 WG 28,8558 WG 28,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+28,M,518,En Couple,1,false,3162 IL 61,3162 IL 61,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+81,M,527,En Couple,4,false,4987 EL 50,4987 EL 50,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+56,M,467,En Couple,2,false,9680 ML 98,9680 ML 98,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+25,F,203,En Couple,1,false,7109 NC 40,7109 NC 40,Fiat,Croma 2.2,147,longue,5,5,bleu,true,17346
+28,F,760,En Couple,3,false,389 ZW 87,389 ZW 87,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+40,M,433,En Couple,1,false,7081 ZC 65,7081 ZC 65,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+73,M,817,En Couple,1,false,6798 RX 98,6798 RX 98,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+81,M,563,C�libataire,0,false,9140 BZ 76,9140 BZ 76,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+23,M,584,C�libataire,0,false,2866 FE 66,2866 FE 66,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+31,M,182,C�libataire,0,false,2311 RM 77,2311 RM 77,Peugeot,1007 1.4,75,courte,5,5,bleu,true,9625
+60,M,1394,En Couple,3,false,3004 GI 30,3004 GI 30,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+43,M,227,En Couple,0,false,7734 NU 89,7734 NU 89,Renault,Laguna 2.0T,170,longue,5,5,gris,true,19110
+58,M,440,En Couple,2,true,615 JV 97,615 JV 97,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+44,M,1156,C�libataire,0,false,6644 IQ 78,6644 IQ 78,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+46,M,1307,En Couple,2,false,3104 SI 50,3104 SI 50,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+27,F,546,En Couple,2,false,9383 QS 40,9383 QS 40,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+40,F,247,C�libataire,0,false,7112 CH 21,7112 CH 21,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+18,F,895,En Couple,3,false,3290 RL 21,3290 RL 21,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+50,M,183,En Couple,0,false,7487 XI 19,7487 XI 19,Renault,Laguna 2.0T,170,longue,5,5,noir,true,19110
+40,M,1356,En Couple,3,false,3653 VX 29,3653 VX 29,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+51,M,408,En Couple,0,true,4393 NV 79,4393 NV 79,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+72,F,497,En Couple,4,false,4087 SN 22,4087 SN 22,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+33,M,212,En Couple,2,false,4300 TA 28,4300 TA 28,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+77,F,499,C�libataire,0,false,716 FB 97,716 FB 97,Mercedes,A200,136,moyenne,5,5,gris,true,18130
+63,M,170,En Couple,1,false,4000 FD 91,4000 FD 91,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+42,F,929,C�libataire,0,false,7511 VF 95,7511 VF 95,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+23,M,808,En Couple,4,true,2429 QF 85,2429 QF 85,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+37,F,944,En Couple,0,true,3913 UT 81,3913 UT 81,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+23,M,595,En Couple,0,false,5872 GX 18,5872 GX 18,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+50,M,499,En Couple,0,false,8519 BZ 77,8519 BZ 77,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+27,M,955,C�libataire,0,false,9189 JE 84,9189 JE 84,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+32,M,505,En Couple,3,false,423 UO 79,423 UO 79,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+21,M,577,C�libataire,0,false,8222 SW 92,8222 SW 92,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+43,F,971,Seule,2,false,6307 OY 71,6307 OY 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+37,F,513,En Couple,0,true,970 VM 51,970 VM 51,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+28,F,748,C�libataire,0,false,3748 LK 47,3748 LK 47,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+32,M,214,En Couple,4,false,8414 GA 12,8414 GA 12,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+56,M,207,En Couple,0,false,9703 TH 95,9703 TH 95,Renault,Laguna 2.0T,170,longue,5,5,noir,true,19110
+58,F,549,C�libataire,0,false,6207 OL 38,6207 OL 38,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+25,F,1112,En Couple,0,false,8443 NB 82,8443 NB 82,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+47,M,537,En Couple,4,true,6997 RI 39,6997 RI 39,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+83,M,1046,En Couple,3,false,8241 EN 23,8241 EN 23,Mercedes,S500,306,tr�s longue,5,5,noir,false,101300
+59,F,913,En Couple,0,false,4650 QY 60,4650 QY 60,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+33,M,1190,En Couple,0,false,6842 MM 95,6842 MM 95,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+31,F,778,En Couple,3,false,7688 YA 39,7688 YA 39,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+22,F,459,C�libataire,0,false,316 QB 59,316 QB 59,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+59,F,469,C�libataire,0,false,4558 ZL 49,4558 ZL 49,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+42,M,438,En Couple,3,false,9597 UG 67,9597 UG 67,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+32,M,576,En Couple,2,false,2811 ET 73,2811 ET 73,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+33,M,501,En Couple,0,false,1013 FV 70,1013 FV 70,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+20,M,587,En Couple,1,false,9409 KZ 74,9409 KZ 74,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+25,M,1377,En Couple,4,false,5680 FX 35,5680 FX 35,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+56,M,160,En Couple,3,true,4099 JG 18,4099 JG 18,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+26,M,1201,En Couple,0,false,8361 KI 58,8361 KI 58,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+81,M,497,En Couple,3,true,4870 TR 60,4870 TR 60,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+30,M,440,En Couple,2,false,3056 DO 89,3056 DO 89,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+25,M,877,En Couple,2,false,5715 SG 15,5715 SG 15,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+45,M,408,En Couple, ,true,1477 YN 25,1477 YN 25,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+47,M,440,En Couple,0,false,4595 GE 36,4595 GE 36,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+69,F,714,Seul,0,false,8298 BO 15,8298 BO 15,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+62,F,174,C�libataire,0,false,4881 ZB 39,4881 ZB 39,Dacia,Logan 1.6 MPI,90,moyenne,5,5,bleu,false,7500
+38,F,587,En Couple,1,true,7539 XU 51,7539 XU 51,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+53,M,220,En Couple,0,true,4027 WH 51,4027 WH 51,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+84,M,484,En Couple,0,false,9945 WA 75,9945 WA 75,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+42,F,473,En Couple,1,false,545 ZJ 13,545 ZJ 13,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+43,M,861,En Couple,1,false,9234 ZR 18,9234 ZR 18,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+67,F,780,C�libataire,0,false,708 OG 59,708 OG 59,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+66,M,996,En Couple,2,false,3131 SH 12,3131 SH 12,Saab,9.3 1.8T,150,longue,5,5,noir,false,38600
+29,M,909,En Couple,1,false,6488 ZP 16,6488 ZP 16,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+52,F,1155,C�libataire,0,false,4126 RG 79,4126 RG 79,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+29,M,1188,En Couple,0,false,2098 ME 31,2098 ME 31,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+23,M,422,En Couple,2,false,5483 FE 55,5483 FE 55,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+29,M,491,En Couple,1,false,2761 WG 59,2761 WG 59,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+53,M,541,En Couple,4,false,2131 JP 48,2131 JP 48,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+39,F,493,En Couple,4,false,8392 XC 38,8392 XC 38,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+64,M,447,En Couple,3,false,6615 EE 96,6615 EE 96,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+25,M,489,En Couple,3,true,2986 TP 49,2986 TP 49,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+22,M,155,En Couple,0,false,9101 GT 53,9101 GT 53,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+34,M,729,C�libataire,0,false,8845 QZ 15,8845 QZ 15,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+28,M,184,C�libataire,0,false,5611 EU 89,5611 EU 89,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+27,M,474,Seule,2,false,9327 CI 67,9327 CI 67,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+47,F,1176,En Couple,0,false,1545 CD 51,1545 CD 51,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+56,M,1040,En Couple,3,false,627 IC 80,627 IC 80,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+30,M,408,C�libataire,0,false,2531 KC 86,2531 KC 86,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+74,F,595,En Couple,1,false,9341 HT 27,9341 HT 27,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+57,M,1237,En Couple,0,false,1381 SG 38,1381 SG 38,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+20,M,237,C�libataire,0,false,4353 LU 51,4353 LU 51,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,true,8540
+22,M,176,En Couple,4,false,2748 LB 35,2748 LB 35,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+36,M,595,En Couple,0,false,4439 VE 38,4439 VE 38,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+42,F,406,En Couple,1,false,8763 UO 42,8763 UO 42,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+24,M,419,En Couple,1,false,8058 PJ 55,8058 PJ 55,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+26,M,413,En Couple,4,false,9507 JL 21,9507 JL 21,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+64,M,850,C�libataire,0,false,7875 FM 14,7875 FM 14,Mercedes,A200,136,moyenne,5,5,gris,false,25900
+21,F,226,C�libataire,0,false,761 FT 87,761 FT 87,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+47,M,421,En Couple,0,false,4514 JN 31,4514 JN 31,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+21,F,496,En Couple,1,false,499 VE 29,499 VE 29,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+41,M,162,C�libataire,0,false,3941 XX 16,3941 XX 16,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,true,16029
+83,F,479,En Couple,2,false,1147 GU 37,1147 GU 37,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+22,M,800,En Couple,1,true,9279 UO 26,9279 UO 26,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+43,M,524,Seule,3,false,9450 HF 74,9450 HF 74,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+60,M,1256,C�libataire,0,false,5154 DV 65,5154 DV 65,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+44,M,159,En Couple,2,false,1965 VW 19,1965 VW 19,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+52,F,564,En Couple,2,false,1572 VS 90,1572 VS 90,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+51,M,408,C�libataire,0,false,3028 UJ 29,3028 UJ 29,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+27,M,732,En Couple,2,false,5661 DA 57,5661 DA 57,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+40,F,401,En Couple,0,true,7501 BF 64,7501 BF 64,Mini,Copper 1.6 16V,115,courte,5,5,noir,true,12740
+19,M,152,C�libataire,0,false,3447 EV 25,3447 EV 25,Nissan,Almera 1.8,115,moyenne,5,5,rouge,false,16450
+29,M,709,C�libataire,0,false,2253 KL 78,2253 KL 78,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+64,M,469,En Couple,0,true,2045 JP 29,2045 JP 29,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+18,M,578,En Couple,0,false,5830 PC 39,5830 PC 39,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+23,M,220,En Couple,3,false,1420 BD 70,1420 BD 70,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+24,M,437,En Couple,0,true,8785 IZ 32,8785 IZ 32,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+42,M,185,C�libataire,0,false,5476 WH 20,5476 WH 20,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,true,15644
+82,M,535,En Couple,3,false,7830 RC 78,7830 RC 78,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+19,F,215,En Couple,3,true,422 AL 65,422 AL 65,Volvo,S80 T6,272,tr�s longue,5,5,rouge,true,35350
+37,M,432,En Couple,2,true,7775 AR 24,7775 AR 24,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+20,F,549,En Couple,1,false,9607 SL 81,9607 SL 81,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+35,M,527,C�libataire,0,false,8632 HD 53,8632 HD 53,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+44,M,498,En Couple,4,false,5004 YU 46,5004 YU 46,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+51,M,824,En Couple,0,false,7969 AH 55,7969 AH 55,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+58,M,1358,C�libataire,0,false,6716 IY 28,6716 IY 28,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+46,M,180,En Couple,0,true,3225 WX 48,3225 WX 48,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+32,M,555,En Couple,3,true,7009 WY 91,7009 WY 91,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+52,F,538,En Couple,4,false,2340 AP 24,2340 AP 24,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+76,M,1225,C�libataire,0,false,5462 FB 48,5462 FB 48,Mercedes,A200,136,moyenne,5,5,gris,false,25900
+57,M,465,C�libataire,0,false,5974 LT 93,5974 LT 93,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+31,M,211,C�libataire,0,false,953 PV 93,953 PV 93,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+51,M,186,En Couple,3,true,1750 RI 22,1750 RI 22,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+43,M,487,En Couple,2,false,6250 WA 63,6250 WA 63,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+65,F,532,C�libataire,0,false,971 NY 25,971 NY 25,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+19,M,572,C�libataire,0,false,6138 BL 83,6138 BL 83,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+52,M,510,Seule,1,false,4274 NY 39,4274 NY 39,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+35,M,183,En Couple,0,false,573 JG 27,573 JG 27,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+33,M,200,En Couple,2,false,8469 SX 52,8469 SX 52,Renault,Laguna 2.0T,170,longue,5,5,noir,true,19110
+67,F,150,En Couple,4,false,5144 EU 88,5144 EU 88,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+68,F,234,Seule,3,false,3220 VG 77,3220 VG 77,Renault,Laguna 2.0T,170,longue,5,5,rouge,true,19110
+20,M,522,C�libataire,0,false,1890 VG 89,1890 VG 89,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+60,F,585,C�libataire,0,false,1664 MS 71,1664 MS 71,Audi,A3 2.0 FSI,150,moyenne,5,5,noir,true,19950
+51,F,594,C�libataire,0,false,1206 LH 60,1206 LH 60,Audi,A3 2.0 FSI,150,moyenne,5,5,noir,true,19950
+43,M,1363,C�libataire,0,false,5834 BS 97,5834 BS 97,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+41,M,880,C�libataire,0,false,31 MC 84,31 MC 84,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+81,M,460,En Couple,4,true,9144 LV 79,9144 LV 79,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+83,M,505,En Couple,2,true,5131 JT 68,5131 JT 68,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+19,Homme,716,En Couple,1,false,9296 YX 24,9296 YX 24,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+28,F,236,En Couple,3,false,7545 NR 26,7545 NR 26,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+61,Homme,153,En Couple,1,true,6139 RD 47,6139 RD 47,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+56,M,445,C�libataire,0,false,4298 ZD 91,4298 ZD 91,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+49,F,1060,En Couple,0,false,5011 IX 98,5011 IX 98,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+37,M,426,Seule,1,false,5330 CA 75,5330 CA 75,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+41,M,1293,Seule,2,false,5476 UN 49,5476 UN 49,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+42,F,566,Seule,3,false,8695 HW 96,8695 HW 96,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+73,M,472,En Couple,0,true,1630 EF 63,1630 EF 63,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+25,M,587,En Couple,1,false,7937 BC 35,7937 BC 35,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+38,M,765,C�libataire,0,false,9697 FH 47,9697 FH 47,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+36,M,547,C�libataire,0,false,3208 CY 97,3208 CY 97,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+62,F,194,En Couple,2,false,6543 PS 20,6543 PS 20,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+46,M,199,En Couple,0,true,5913 LT 66,5913 LT 66,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+23,F,1038,C�libataire,0,false,4909 XH 48,4909 XH 48,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+19,F,556,En Couple,3,true,5489 XJ 90,5489 XJ 90,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+59,M,179,C�libataire,0,false,2129 ST 53,2129 ST 53,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+28,M,401,En Couple,1,false,1759 ZJ 11,1759 ZJ 11,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+55,M,565,C�libataire,0,false,4501 RF 76,4501 RF 76,BMW,120i,150,moyenne,5,5,noir,true,25060
+57,F,440,En Couple,2,false,5062 YC 71,5062 YC 71,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+30,F,1060,En Couple,3,false,9970 RB 49,9970 RB 49,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+81,M,940,En Couple,1,false,2344 SP 66,2344 SP 66,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+51,M,457,En Couple,2,false,4053 SX 51,4053 SX 51,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+20,M,1340,En Couple,1,false,3739 KY 40,3739 KY 40,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+83,M,1028,En Couple,0,true,1950 ZL 86,1950 ZL 86,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+48,M,473,En Couple,2,true,5464 PV 78,5464 PV 78,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+64,M,829,En Couple,2,false,3739 HT 28,3739 HT 28,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+19,F,402,En Couple,2,false,1430 OY 15,1430 OY 15,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+59,M,457,En Couple,4,false,5153 SW 76,5153 SW 76,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+81,M,546,En Couple,3,false,7811 KR 91,7811 KR 91,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+56,M,870,C�libataire,0,false,7859 KK 11,7859 KK 11,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+29,Femme,458,Seule,1,false,5467 ET 75,5467 ET 75,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+27,M,497,C�libataire,0,false,8744 TR 66,8744 TR 66,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+50,M,422,C�libataire,0,false,6430 RP 23,6430 RP 23,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+48,M,455,Seule,1,false,7609 FL 42,7609 FL 42,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+54,F,223,En Couple,2,false,2878 IV 23,2878 IV 23,Nissan,Primera 1.6,109,longue,5,5,gris,false,18650
+50,M,784,En Couple,4,false,3055 UW 87,3055 UW 87,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+35,M,506,C�libataire,0,false,3006 AI 83,3006 AI 83,BMW,120i,150,moyenne,5,5,gris,true,25060
+21,M,835,En Couple,4,false,6921 QN 74,6921 QN 74,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+28,Homme,483,En Couple,2,false,5811 BN 38,5811 BN 38,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+26,M,229,En Couple,1,true,3860 EK 12,3860 EK 12,Kia,Picanto 1.1,65,courte,5,5,rouge,false,8990
+22,M,947,En Couple,4,true,8406 XN 41,8406 XN 41,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+74,M,513,En Couple,1,false,112 AZ 59,112 AZ 59,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+53,M,1005,En Couple,1,false,6640 KD 22,6640 KD 22,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+59,M,209,En Couple,2,true,2929 XL 97,2929 XL 97,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+56,M,441,En Couple,2,false,5821 FB 92,5821 FB 92,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+55,M,448,En Couple,1,false,1115 YE 76,1115 YE 76,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+22,M,519,C�libataire,0,false,4649 OT 47,4649 OT 47,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+44,M,1324,En Couple,1,false,1317 NM 15,1317 NM 15,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+68,M,489,En Couple,1,true,7397 PE 43,7397 PE 43,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+66,M,429,En Couple,3,false,8631 II 37,8631 II 37,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+21,F,1236,En Couple,3,false,8450 VK 40,8450 VK 40,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+35,M,404,En Couple,2,true,5835 WZ 71,5835 WZ 71,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+32,M,172,Seule,3,false,7940 FW 77,7940 FW 77,Renault,Laguna 2.0T,170,longue,5,5,bleu,true,19110
+18,M,464,En Couple,0,false,2318 SP 69,2318 SP 69,Renault,Laguna 2.0T,170,longue,5,5,bleu,false,27300
+52,F,1275,En Couple,2,false,7600 SD 49,7600 SD 49,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+23,M,227,En Couple,3,false,3088 YZ 98,3088 YZ 98,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+67,M,535,C�libataire,0,false,6173 AF 73,6173 AF 73,Mercedes,A200,136,moyenne,5,5,bleu,true,18130
+53,M,760,En Couple,1,false,8895 ZZ 97,8895 ZZ 97,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+22,F,1208,C�libataire,0,false,3846 GT 97,3846 GT 97,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+59,M,474,En Couple,0,false,1728 II 79,1728 II 79,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+39,M,246,En Couple,4,false,839 SU 16,839 SU 16,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+37,M,803,En Couple,1,false,2502 PS 93,2502 PS 93,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+52,F,408,En Couple,0,false,2155 JQ 66,2155 JQ 66,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+72,M,203,En Couple,4,false,5336 BM 78,5336 BM 78,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+52,M,249,C�libataire,0,false,52 OS 51,52 OS 51,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+20,F,575,En Couple,4,false,8959 CB 69,8959 CB 69,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+30,F,748,En Couple,2,false,6210 LS 78,6210 LS 78,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+40,M,1139,C�libataire,0,false,2068 DR 49,2068 DR 49,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+20,M,227,Seule,2,false,9626 QO 16,9626 QO 16,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+57,M,1121,En Couple,0,false,6454 UB 38,6454 UB 38,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+18,M,453,C�libataire,0,false,9552 HA 54,9552 HA 54,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+24,M,192,En Couple,0,false,6370 YX 30,6370 YX 30,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,bleu,false,31790
+32,M,586,En Couple,0,false,6828 IK 41,6828 IK 41,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+56,F,1089,En Couple,1,false,6936 GO 52,6936 GO 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+38,F,559,En Couple,2,false,7113 ZD 27,7113 ZD 27,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+39,M,1119,C�libataire,0,false,6813 FC 13,6813 FC 13,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+52,M,443,C�libataire,0,false,8993 AG 38,8993 AG 38,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+24,M,922,C�libataire,0,false,4339 BN 43,4339 BN 43,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+20,F,407,C�libataire,0,false,1762 US 17,1762 US 17,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+23,M,504,En Couple,2,false,8257 TQ 79,8257 TQ 79,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+20,F�minin,440,En Couple,2,true,683 FA 19,683 FA 19,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+22,Homme,727,En Couple,2,false,6673 ZH 65,6673 ZH 65,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+49,M,234,Seule,2,false,6223 LQ 88,6223 LQ 88,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+24,M,943,En Couple,4,false,6924 NR 58,6924 NR 58,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+26,M,237,Seule,2,false,8768 TJ 75,8768 TJ 75,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,blanc,false,31790
+21,M,1084,C�libataire,0,false,8880 AN 78,8880 AN 78,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+21,M,1319,En Couple,0,false,9636 YD 51,9636 YD 51,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+25,M,468,Seule,2,false,1098 OE 41,1098 OE 41,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+55,F,228,En Couple,0,false,5652 PA 63,5652 PA 63,Renault,Laguna 2.0T,170,longue,5,5,gris,true,19110
+52,M,1230,En Couple,3, ,9068 VL 70,9068 VL 70,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+81,Homme,541,En Couple,2,false,4215 PT 66,4215 PT 66,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+27,M,203,Seule,2,false,5047 XD 42,5047 XD 42,Ford,Mondeo 1.8,125,longue,5,5,bleu,true,16730
+38,M,1051,En Couple,0,true,3467 ES 96,3467 ES 96,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+38,M,467,En Couple,1,true,9681 NQ 29,9681 NQ 29,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+74,M,431,En Couple,0,false,9820 TS 57,9820 TS 57,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+76,M,594,En Couple,2,false,16 DR 59,16 DR 59,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+26,M,241,C�libataire,0,false,9546 HD 63,9546 HD 63,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644
+24,M,162,En Couple,3,true,2269 VQ 33,2269 VQ 33,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+23,F,450,C�libataire,0,false,5367 WU 37,5367 WU 37,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+57,F,249,En Couple,2,false,6978 RK 21,6978 RK 21,Nissan,Primera 1.6,109,longue,5,5,blanc,false,18650
+63,F,1260,C�libataire,0,false,1446 JF 81,1446 JF 81,Mini,Copper 1.6 16V,115,courte,5,5,rouge,false,18200
+31,F,171,En Couple,1,false,6764 HW 46,6764 HW 46,Seat,Toledo 1.6,102,longue,5,5,blanc,false,18880
+69,M,576,En Couple,4,false,237 OD 26,237 OD 26,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+43,M,854,En Couple,0,false,344 BL 46,344 BL 46,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+27,F,236,C�libataire,0,false,963 MQ 93,963 MQ 93,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+39,M,1374,En Couple,1,false,1993 DE 79,1993 DE 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+25,M,1018,En Couple,4,false,6802 EL 49,6802 EL 49,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+46,M,1048,En Couple,0,true,3184 DG 96,3184 DG 96,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+20,M,498,En Couple,2,false,7109 QN 77,7109 QN 77,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+57,M,431,En Couple,4,true,9346 VV 98,9346 VV 98,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+27,F,911,C�libataire,0,false,6795 BN 36,6795 BN 36,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+29,M,909,En Couple,0,false,5398 FA 25,5398 FA 25,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+30,F,593,En Couple,3,true,386 MZ 86,386 MZ 86,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+76,F,453,En Couple,2,false,2596 IF 33,2596 IF 33,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+68,M,1344,En Couple,3,false,6476 UD 81,6476 UD 81,Mercedes,S500,306,tr�s longue,5,5,noir,false,101300
+29,M,1083,En Couple,4,false,5718 VY 39,5718 VY 39,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+66,F,528,En Couple,2,false,6364 JP 31,6364 JP 31,Saab,9.3 1.8T,150,longue,5,5,gris,true,27020
+65,M,718,?,2,true,1146 ZJ 13,1146 ZJ 13,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+32,F,491,C�libataire,0,false,682 PX 72,682 PX 72,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+71,M,470,En Couple,4,false,685 MT 64,685 MT 64,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+48,M,1331,Mari�(e),1,false,4506 BN 35,4506 BN 35,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+18,M,539,En Couple,0,false,33 HB 35,33 HB 35,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+22,M,533,En Couple,4,false,1465 BP 62,1465 BP 62,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+44,M,1069,En Couple,1,false,6935 VG 44,6935 VG 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+47,F,451,En Couple,4,false,1488 YM 81,1488 YM 81,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+52,M,575,C�libataire,0,false,7269 FH 39,7269 FH 39,BMW,120i,150,moyenne,5,5,rouge,true,25060
+84,M,580,En Couple,3,false,7821 JJ 24,7821 JJ 24,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+50,F,453,C�libataire,0,false,7185 HC 85,7185 HC 85,Mini,Copper 1.6 16V,115,courte,5,5,bleu,true,12740
+31,M,412,En Couple,2,false,6273 OH 32,6273 OH 32,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+37,F,559,En Couple,1,false,7460 UZ 79,7460 UZ 79,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+80,M,871,C�libataire,0,false,4044 OK 57,4044 OK 57,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+30,M,198,C�libataire,0,false,3608 ZK 12,3608 ZK 12,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,true,16029
+35,M,773,C�libataire,0,false,3827 RY 12,3827 RY 12,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+58,M,1221,En Couple,3,false,4922 YO 47,4922 YO 47,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+29,F,1253,En Couple,4,false,3258 HC 74,3258 HC 74,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+24,M,437,En Couple,0,false,8104 TF 33,8104 TF 33,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+58,M,409,C�libataire,0,false,986 UJ 30,986 UJ 30,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+31,M,460,En Couple,2,false,834 FI 14,834 FI 14,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+38,M,1336,C�libataire,0,false,9019 AJ 60,9019 AJ 60,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+36,M,193,En Couple,0,false,7436 JB 12,7436 JB 12,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+26,F,583,En Couple,3,false,4970 NZ 76,4970 NZ 76,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+19,M,575,En Couple,3,false,9355 OD 46,9355 OD 46,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+18,M,209,En Couple,0,false,7012 EV 13,7012 EV 13,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+30,M,554,En Couple,3,true,355 EX 71,355 EX 71,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+30,M,1246,En Couple,2,false,9065 VM 49,9065 VM 49,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+22,M,408,En Couple,3,true,1743 KE 83,1743 KE 83,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+57,M,418,En Couple,4,false,9785 IE 71,9785 IE 71,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+32,F,440,C�libataire,0,false,9064 VN 98,9064 VN 98,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,false,22350
+22,M,572,En Couple,1,true,2106 GT 43,2106 GT 43,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+61,M,478,En Couple,3,false,5388 FW 18,5388 FW 18,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+40,M,530,C�libataire,0,false,2031 BL 22,2031 BL 22,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,gris,false,22900
+47,M,1351,C�libataire,0,false,6696 NO 57,6696 NO 57,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+56,M,1283,C�libataire, ,false,2034 MN 96,2034 MN 96,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+51,F,435,En Couple,2,false,6590 SM 70,6590 SM 70,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+32,M,231,C�libataire,0,false,3754 ND 28,3754 ND 28,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+51,M,765,C�libataire,0,false,384 DY 67,384 DY 67,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+47,M,594,En Couple,1,false,8197 TD 85,8197 TD 85,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+40,M,464,C�libataire,0,false,8770 MT 35,8770 MT 35,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,false,22350
+65,M,565,C�libataire,0,false,1727 SS 28,1727 SS 28,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+66,M,540,C�libataire,0,false,8939 KO 24,8939 KO 24,Mercedes,A200,136,moyenne,5,5,gris,true,18130
+21,M,992,En Couple,2,false,4361 JF 70,4361 JF 70,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+53,F,453,C�libataire,0,false,8420 VN 54,8420 VN 54,BMW,120i,150,moyenne,5,5,noir,true,25060
+48,M,831,En Couple,2,false,9218 AS 86,9218 AS 86,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+45,M,849,En Couple,0,true,5751 LS 14,5751 LS 14,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+28,F,580,En Couple,3,true,945 NB 45,945 NB 45,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+82,F,720,C�libataire,0,false,400 YE 55,400 YE 55,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+55,N/D,1399,C�libataire,0,false,7976 XG 68,7976 XG 68,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+72,M,1232,En Couple,0,false,4639 FG 81,4639 FG 81,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+58,M,525,En Couple,3,false,6625 YI 45,6625 YI 45,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+50,F,582,C�libataire,0,false,4276 VG 22,4276 VG 22,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+54,M,246,C�libataire,0,false,8997 ZE 60,8997 ZE 60,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,true,8540
+66,Masculin,502,En Couple,3,true,5137 EW 64,5137 EW 64,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+60,M,419,En Couple,0,true,8448 KN 54,8448 KN 54,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+72,M,540,En Couple,3,false,2155 TR 69,2155 TR 69,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+24,M,529,En Couple,0,false,2222 JO 41,2222 JO 41,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+45,F,494,C�libataire,0,false,7449 TY 48,7449 TY 48,BMW,120i,150,moyenne,5,5,blanc,true,25060
+22,M,1327,C�libataire,0,false,2784 DS 71,2784 DS 71,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+33,M,595,En Couple,3,false,611 KL 54,611 KL 54,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+43,M,1045,En Couple,2,false,5400 EL 60,5400 EL 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+41,M,177,En Couple,1,false,787 YS 19,787 YS 19,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+33,M,461,En Couple,0,true,9751 HE 57,9751 HE 57,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+84,F,248,En Couple,2,false,8279 VR 51,8279 VR 51,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+61,F,436,En Couple,0,false,7862 RE 41,7862 RE 41,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+31,M,170,En Couple,2,false,7420 UI 66,7420 UI 66,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+21,M,730,C�libataire,0,false,1465 CD 22,1465 CD 22,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+25,M,1016,En Couple,4,false,5988 EE 19,5988 EE 19,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+61,M,228,En Couple,4,false,7373 OT 25,7373 OT 25,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+68,Homme,186,C�libataire,0,false,273 PM 12,273 PM 12,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,true,8540
+22,F,1343,C�libataire,0,false,6939 AN 29,6939 AN 29,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+39,M,1310,C�libataire,0,false,8503 FP 48,8503 FP 48,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+80,F,544,C�libataire,0,false,1394 XW 52,1394 XW 52,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+27,M,743,En Couple,4,true,1325 HL 28,1325 HL 28,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+19,M,457,C�libataire,0,false,6768 ZO 22,6768 ZO 22,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+23,M,492,En Couple,1,false,3724 LV 49,3724 LV 49,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+31,M,199,En Couple,0,true,41 NN 53,41 NN 53,Kia,Picanto 1.1,65,courte,5,5,rouge,false,8990
+66,M,210,C�libataire,0,false,6702 MT 84,6702 MT 84,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,true,16029
+44,M,867,En Couple,3,false,9278 BD 80,9278 BD 80,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+24,M,574,En Couple,1,true,6607 QD 44,6607 QD 44,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+27,M,590,Seule,1,false,2023 VC 74,2023 VC 74,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+27,M,590,Seule,1,false,2023 VC 74,2023 VC 74,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+72,M,522,En Couple,1,false,4687 UB 19,4687 UB 19,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+22,M,722,En Couple,1,false,5929 LT 60,5929 LT 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+22,F,578,En Couple,4,true,2766 IJ 91,2766 IJ 91,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+63,M,406,En Couple,0,false,3600 GC 23,3600 GC 23,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+24,M,174,Seule,2,false,862 EV 81,862 EV 81,Seat,Toledo 1.6,102,longue,5,5,gris,false,18880
+55,M,845,En Couple,2,false,7846 GY 60,7846 GY 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+32,F,431,C�libataire,0,false,9892 YP 76,9892 YP 76,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+27,F,1008,En Couple,1,true,8137 OF 97,8137 OF 97,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+23,F,560,En Couple,2,false,4775 LO 74,4775 LO 74,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+?,M,419,En Couple,1,false,3657 DE 89,3657 DE 89,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+57,M,598,En Couple,3,false,2975 JQ 37,2975 JQ 37,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+22,M,234,C�libataire,0,false,7302 ES 62,7302 ES 62,Renault,Megane 2.0 16V,135,moyenne,5,5,blanc,true,15644
+43,M,220,En Couple,0,false,5926 FD 47,5926 FD 47,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+36,M,206,En Couple,3,false,7046 PN 60,7046 PN 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+36,M,1061,C�libataire,0,false,1258 VZ 18,1258 VZ 18,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+37,F,194,En Couple,2,true,8716 DQ 87,8716 DQ 87,Daihatsu,Cuore 1.0,58,courte,5,3,bleu,false,8850
+43,M,1044,En Couple,0,false,2601 RP 56,2601 RP 56,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+40,M,927,En Couple,0,false,4274 AE 26,4274 AE 26,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+23,M,936,En Couple,4,false,7698 SI 54,7698 SI 54,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+30,M,473,C�libataire,0,false,1984 RI 51,1984 RI 51,BMW,120i,150,moyenne,5,5,noir,true,25060
+28,F,510,En Couple,4,false,2202 RT 90,2202 RT 90,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+64,M,556,N/D,3,false,1 EL 46,1 EL 46,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+44,M,728,C�libataire,0,false,7732 YN 29,7732 YN 29,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+52,M,165,C�libataire,0,false,3381 RY 57,3381 RY 57,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,true,15644
+33,M,211,En Couple,2,false,3991 XA 24,3991 XA 24,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+61,M,482,En Couple,3,false,6073 CM 58,6073 CM 58,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+39,M,523,C�libataire,0,false,9116 BE 41,9116 BE 41,BMW,120i,150,moyenne,5,5,blanc,true,25060
+20,M,498,C�libataire,0,false,8496 CL 35,8496 CL 35,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+36,M,595,C�libataire,0,false,925 MZ 44,925 MZ 44,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+23,M,477,C�libataire,0,false,6381 OG 78,6381 OG 78,BMW,120i,150,moyenne,5,5,rouge,true,25060
+79,M,505,En Couple,3,true,7959 BI 12,7959 BI 12,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+51,F,1064,En Couple,1,false,1958 WH 24,1958 WH 24,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+75,M,962,En Couple,1,true,8856 ZZ 17,8856 ZZ 17,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+24,F,759,C�libataire,0,false,8754 DN 53,8754 DN 53,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+33,M,431,En Couple,1,false,5217 RC 79,5217 RC 79,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+59,M,169,Seul,0,false,9275 ZK 87,9275 ZK 87,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+23,M,458,En Couple,4,true,8916 VF 63,8916 VF 63,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+51,M,913,En Couple,4,false,8685 MB 34,8685 MB 34,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+51,M,448,C�libataire,0,false,2486 MC 89,2486 MC 89,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+73,M,1086,En Couple,1,true,6212 KU 30,6212 KU 30,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+24,M,402,En Couple,4,true,3982 XR 39,3982 XR 39,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+24,M,599,C�libataire,0,false,7793 QA 23,7793 QA 23,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,false,12200
+51,M,534,En Couple,2,false,2372 ZG 45,2372 ZG 45,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+46,M,442,En Couple,2,false,405 EA 90,405 EA 90,Ford,Mondeo 1.8,125,longue,5,5,noir,false,23900
+57,M,532,En Couple,2,false,1458 RV 45,1458 RV 45,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+50,M,1355,C�libataire,0,false,5428 JJ 28,5428 JJ 28,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+47,M,477,En Couple,0,true,310 SP 40,310 SP 40,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+46,M,508,C�libataire,0,false,4867 GK 62,4867 GK 62,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,false,22350
+45,F,1371,En Couple,0,false,5917 GA 70,5917 GA 70,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+41,M,571,En Couple,3,false,2714 ZD 80,2714 ZD 80,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+60,F,451,C�libataire,0,false,6841 NB 29,6841 NB 29,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+57,M,570,En Couple,4,false,339 CB 76,339 CB 76,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+73,M,594,C�libataire,0,false,9564 CM 38,9564 CM 38,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+23,M,551,En Couple,2,false,7384 LT 36,7384 LT 36,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+40,M,568,Seule,3,false,9034 BQ 98,9034 BQ 98,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+44,M,401,En Couple,1,false,7144 TB 85,7144 TB 85,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+24,M,930,C�libataire,0,false,5499 MM 70,5499 MM 70,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+30,M,1011,En Couple,2,false,9586 RN 61,9586 RN 61,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+26,F,228,C�libataire,0,false,6341 GB 96,6341 GB 96,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+77,M,151,En Couple,0,false,3703 UR 52,3703 UR 52,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+56,M,232,Seule,2,false,1941 UF 30,1941 UF 30,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+34,M,943,C�libataire,0,false,4364 QV 25,4364 QV 25,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+82,M,591,C�libataire,0,false,2359 MV 78,2359 MV 78,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+80,F,516,En Couple,4,false,8517 DA 51,8517 DA 51,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+68,M,203,En Couple,2,false,9753 UZ 32,9753 UZ 32,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+33,M,1093,En Couple,1,false,123 BB 46,123 BB 46,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+24,F,562,C�libataire,0,false,5132 CE 33,5132 CE 33,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+25,F,208,C�libataire,0,false,8247 JF 32,8247 JF 32,Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,true,18641
+46,M,997,C�libataire,0,false,2162 KK 52,2162 KK 52,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+18,M,232,C�libataire,0,false,6820 CP 19,6820 CP 19,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
+40,F,?,En Couple,3,false,6464 UK 41,6464 UK 41,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+42,M,487,C�libataire,0,false,3360 QS 68,3360 QS 68,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+18,F,419,En Couple,2,false,6397 UQ 36,6397 UQ 36,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+39,M,479,En Couple,0,false,5962 JD 39,5962 JD 39,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+56,M,204,En Couple,1,false,2817 RN 83,2817 RN 83,Fiat,Croma 2.2,147,longue,5,5,rouge,true,17346
+48,M,1363,En Couple,0,true,4853 FU 61,4853 FU 61,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+41,M,477,C�libataire,0,false,1479 LA 72,1479 LA 72,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+37,M,791,En Couple,0,false,9876 MG 69,9876 MG 69,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+45,F,563,En Couple,0,true,3850 GY 81,3850 GY 81,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+75,F,592,En Couple,1,false,1563 OM 71,1563 OM 71,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+25,F,1195,C�libataire,0,false,2059 GF 48,2059 GF 48,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+22,F,410,C�libataire,0,false,3188 SX 65,3188 SX 65,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+32,M,983,En Couple,4,false,9369 EI 18,9369 EI 18,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+58,F,480,Mari�(e),0,false,8119 OX 30,8119 OX 30,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+79,M,470,En Couple,2,false,2374 RE 79,2374 RE 79,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+44,M,1324,En Couple,2,true,1231 HC 69,1231 HC 69,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+25,M,572,C�libataire,0,false,8777 RD 54,8777 RD 54,BMW,120i,150,moyenne,5,5,rouge,true,25060
+35,F,423,C�libataire,0,false,1100 TG 97,1100 TG 97,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+52,M,410,En Couple,3,false,5798 LU 44,5798 LU 44,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+18,M,474,C�libataire,0,false,2843 OG 85,2843 OG 85,BMW,120i,150,moyenne,5,5,gris,true,25060
+19,M,1171,En Couple,1,false,7511 QV 61,7511 QV 61,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+63,F,427,En Couple,3,true,5407 CJ 78,5407 CJ 78,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+50,F,1084,En Couple,3,false,9398 OZ 36,9398 OZ 36,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+40,M,1085,En Couple,0,false,555 IB 16,555 IB 16,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+45,M,178,En Couple,0,false,4624 QN 77,4624 QN 77,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+22,M,405,En Couple,2,false,1861 JI 90,1861 JI 90,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+26,M,404,C�libataire,0,false,5411 QA 35,5411 QA 35,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+24,F,190,En Couple,4,false,9125 SM 10,9125 SM 10,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,true,34440
+31,M,551,En Couple,0,false,1328 NE 49,1328 NE 49,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+21,M,844,Seule,2,false,931 VS 54,931 VS 54,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+43,F,1369,En Couple,1,false,1801 CT 44,1801 CT 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+51,M,471,En Couple,2,false,1931 AJ 18,1931 AJ 18,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+70,M,1036,En Couple,2,false,2035 JV 48,2035 JV 48,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+41,F,850,C�libataire,0,false,4492 ZA 49,4492 ZA 49,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+22,F,468,En Couple,4,true,5509 ZT 45,5509 ZT 45,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+65,M,228,C�libataire,0,false,6132 MV 90,6132 MV 90,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+81,M,220,En Couple,3,false,7639 BM 81,7639 BM 81,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+79,F,517,En Couple,1,false,325 HL 77,325 HL 77,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+21,M,226,N/D,0,false,2515 MW 74,2515 MW 74,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,true,15644
+39,F,1318,En Couple,1,false,5907 VN 37,5907 VN 37,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+40,M,814,En Couple,3,false,8039 AL 13,8039 AL 13,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+29,M,1299,C�libataire,0,false,6979 CJ 79,6979 CJ 79,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+76,F,481,Seule,2,false,8257 IT 57,8257 IT 57,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+33,F,727,En Couple,0,true,7838 ZF 28,7838 ZF 28,Mini,Copper 1.6 16V,115,courte,5,5,bleu,false,18200
+39,F,1126,C�libataire,0,false,6433 PC 48,6433 PC 48,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+29,F,488,En Couple,1,false,7291 XF 42,7291 XF 42,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+54,M,506,En Couple,4,false,4345 PI 15,4345 PI 15,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+44,F,1044,En Couple,3,false,951 RI 13,951 RI 13,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+57,M,1322,En Couple,3,false,9600 AT 44,9600 AT 44,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+44,F,592,C�libataire,0,false,9760 RR 22,9760 RR 22,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+66,F,1367,C�libataire,0,false,5066 YY 55,5066 YY 55,Mercedes,A200,136,moyenne,5,5,blanc,false,25900
+24,M,1056,C�libataire,0,false,261 OO 81,261 OO 81,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+69,M,1336,C�libataire,0,false,1233 NX 78,1233 NX 78,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+35,M,798,C�libataire,0,false,5448 LK 98,5448 LK 98,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+55,M,194,En Couple,4,false,6143 ZS 84,6143 ZS 84,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,gris,false,30000
+35,M,528,En Couple,2,true,8155 GJ 87,8155 GJ 87,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+25,F,944,En Couple,2,false,3553 LK 79,3553 LK 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+61,M,459,En Couple,0,true,4934 CA 82,4934 CA 82,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+50,M,226,En Couple,2,false,2709 VL 98,2709 VL 98,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+26,F,1017,Seule,3,false,5919 JO 75,5919 JO 75,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+20,M,201,En Couple,4,false,412 RF 35,412 RF 35,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+46,M,598,En Couple,4,false,3071 EJ 39,3071 EJ 39,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+32,F,522,C�libataire,0,false,4440 KQ 12,4440 KQ 12,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+46,M,1353,En Couple,2,false,883 TG 49,883 TG 49,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+18,M,1362,C�libataire,0,false,2862 LU 30,2862 LU 30,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+24,M,245,En Couple,1,false,3176 PH 12,3176 PH 12,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+41,M,185,C�libataire,0,false,7685 QT 97,7685 QT 97,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+67,M,243,En Couple,4,false,3182 PH 23,3182 PH 23,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+36,M,478,En Couple,3,false,197 YR 96,197 YR 96,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+19,M,598,En Couple,4,false,3990 FZ 30,3990 FZ 30,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+29,M,186,C�libataire,0,false,473 PQ 21,473 PQ 21,Peugeot,1007 1.4,75,courte,5,5,gris,true,9625
+55,M,475,En Couple,1,true,4835 RA 15,4835 RA 15,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+60,M,431,En Couple,2,false,8317 CX 42,8317 CX 42,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+65,F,567,C�libataire,0,false,172 UP 56,172 UP 56,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+25,M,221,En Couple,1,true,2303 FK 21,2303 FK 21,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+41,M,930,Seule,2,false,6152 OJ 37,6152 OJ 37,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+51,M,488,En Couple,0,false,3217 NA 15,3217 NA 15,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+47,M,531,En Couple,3,false,5008 GA 27,5008 GA 27,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+41,F,563,En Couple,1,false,1717 JB 93,1717 JB 93,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+56,F,793,En Couple,1,true,6704 XI 82,6704 XI 82,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+48,M,566,C�libataire,0,false,191 OQ 35,191 OQ 35,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+51,M,164,En Couple,0,false,3445 QT 71,3445 QT 71,Nissan,Primera 1.6,109,longue,5,5,blanc,false,18650
+59,M,442,En Couple,2,false,775 SW 11,775 SW 11,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+77,M,877,C�libataire,0,false,5791 GE 22,5791 GE 22,Mercedes,A200,136,moyenne,5,5,noir,false,25900
+32,F,554,En Couple,2,true,5091 IW 27,5091 IW 27,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+30,F,1177,En Couple,0,false,4897 DN 32,4897 DN 32,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+56,F,246,C�libataire,0,false,9761 HL 83,9761 HL 83,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,true,16029
+23,F,599,C�libataire,0,false,8780 ZZ 28,8780 ZZ 28,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+42,F�minin,164,C�libataire,0,false,6170 NH 35,6170 NH 35,Daihatsu,Cuore 1.0,58,courte,5,3,noir,false,8850
+53,M,1104,C�libataire,0,false,3303 MX 41,3303 MX 41,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+28,F,1338,C�libataire,0,false,8911 IZ 21,8911 IZ 21,Mini,Copper 1.6 16V,115,courte,5,5,noir,false,18200
+42,Masculin,581,C�libataire,0,false,6985 AO 13,6985 AO 13,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+25,M,544,En Couple,0,false,9264 DD 25,9264 DD 25,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+29,M,189,En Couple,0,false,1804 TP 69,1804 TP 69,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+64,M,213,En Couple,4,true,4576 AY 88,4576 AY 88,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+41,F,1203,C�libataire,0,false,9324 FB 11,9324 FB 11,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+46,F,182,C�libataire,0,false,1250 EY 25,1250 EY 25,Daihatsu,Cuore 1.0,58,courte,5,3,gris,false,8850
+36,M,1339,C�libataire,0,false,6886 TU 62,6886 TU 62,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+42,M,492,En Couple,0,false,1006 RJ 93,1006 RJ 93,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+18,F,558,En Couple,0,false,5097 TH 55,5097 TH 55,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+18,M,844,En Couple,2,true,5420 MZ 28,5420 MZ 28,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+32,M,454,C�libataire,0,false,9399 ZW 28,9399 ZW 28,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+28,M,150,En Couple,3,false,5943 NH 21,5943 NH 21,Volvo,S80 T6,272,tr�s longue,5,5,gris,true,35350
+27,F,169,En Couple,1,false,772 PG 35,772 PG 35,Fiat,Croma 2.2,147,longue,5,5,blanc,true,17346
+27,M,540,En Couple,0,false,6474 VF 43,6474 VF 43,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+39,M,812,En Couple,0,true,5381 JF 35,5381 JF 35,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+22,F,845,Seule,3,false,7734 SX 62,7734 SX 62,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+52,M,528,Seule,3,false,6563 CL 20,6563 CL 20,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+27,M,1050,En Couple,2,true,5066 CY 61,5066 CY 61,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+31,F,483,En Couple,2,false,4261 SZ 60,4261 SZ 60,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+37,M,470,C�libataire,0,false,3977 KS 53,3977 KS 53,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+37,M,790,En Couple,4,false,3704 ZA 52,3704 ZA 52,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+83,M,870,Seule,2,false,8711 YD 34,8711 YD 34,Saab,9.3 1.8T,150,longue,5,5,blanc,false,38600
+36,F,717,C�libataire,0,false,9882 MU 97,9882 MU 97,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+55,M,505,En Couple,0,false,8412 OH 51,8412 OH 51,Ford,Mondeo 1.8,125,longue,5,5,gris,false,23900
+64,F,527,En Couple,4,false,5466 RN 47,5466 RN 47,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+51,F,221,En Couple,0,true,8127 OH 22,8127 OH 22,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+21,M,1105,En Couple,1,false,2010 UJ 17,2010 UJ 17,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+51,F,1396,C�libataire,0,false,3291 CD 81,3291 CD 81,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+57,M,850,C�libataire,0,false,3117 XN 47,3117 XN 47,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+36,M,1334,En Couple,0,false,332 NG 84,332 NG 84,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+31,F,431,C�libataire,0,false,1224 EK 35,1224 EK 35,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+21,M,560,C�libataire,0,false,9683 JP 47,9683 JP 47,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+21,F,1126,En Couple,4,false,4020 QU 93,4020 QU 93,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+72,F,1135,En Couple,3,false,5758 SL 22,5758 SL 22,Mercedes,S500,306,tr�s longue,5,5,blanc,false,101300
+22,M,487,C�libataire,0,false,8202 RY 35,8202 RY 35,Peugeot,1007 1.4,75,courte,5,5,bleu,false,13750
+29,M,233,En Couple,3,false,7072 HJ 32,7072 HJ 32,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+20,F,512,En Couple,4,false,581 KU 87,581 KU 87,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+28,M,518,En Couple,1,false,9806 DW 18,9806 DW 18,Ford,Mondeo 1.8,125,longue,5,5,noir,false,23900
+43,M,1175,C�libataire,0,false,7651 RG 38,7651 RG 38,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+27,F,576,En Couple,3,false,5983 JU 33,5983 JU 33,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+76,M,194,En Couple,1,false,3620 BK 11,3620 BK 11,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+23,M,245,En Couple,2,false,523 IS 64,523 IS 64,Nissan,Primera 1.6,109,longue,5,5,rouge,false,18650
+27,F,903,En Couple,4,false,3497 OP 87,3497 OP 87,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+69,M,1355,En Couple,1,false,2093 BG 53,2093 BG 53,Mercedes,S500,306,tr�s longue,5,5,bleu,false,101300
+84,F,488,Mari�(e),3,false,6821 MC 27,6821 MC 27,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+25,M,918,C�libataire,0,false,3137 NW 31,3137 NW 31,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+35,M,220,En Couple,1,false,4575 ZP 16,4575 ZP 16,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+45,M,1297,En Couple,0,false,901 EE 30,901 EE 30,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+29,M,214,En Couple,2,false,4398 GE 87,4398 GE 87,Fiat,Croma 2.2,147,longue,5,5,rouge,true,17346
+51,F,1235,En Couple,3,false,1851 VR 23,1851 VR 23,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+18,F,885,C�libataire,0,false,9131 UH 94,9131 UH 94,Mini,Copper 1.6 16V,115,courte,5,5,noir,false,18200
+39,M,842,En Couple,1,false,9989 UE 40,9989 UE 40,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+34,M,442,C�libataire,0,false,1938 UN 25,1938 UN 25,BMW,120i,150,moyenne,5,5,noir,true,25060
+21,M,587,En Couple,1,false,6216 PG 26,6216 PG 26,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+23,F,512,Seule,2,false,2160 PH 32,2160 PH 32,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+18,M,880,En Couple,2,false,8425 BF 80,8425 BF 80,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+18,F,593,C�libataire,0,false,8054 XU 74,8054 XU 74,BMW,120i,150,moyenne,5,5,gris,true,25060
+72,M,537,En Couple,2,false,5202 CV 96,5202 CV 96,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+72,M,537,En Couple,2,false,5202 CV 96,5202 CV 96,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+77,F,866,C�libataire,0,false,4644 BM 42,4644 BM 42,Mini,Copper 1.6 16V,115,courte,5,5,blanc,false,18200
+54,M,546,En Couple,2,false,5005 PM 89,5005 PM 89,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+40,F,470,En Couple,2,false,5230 LM 62,5230 LM 62,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+25,M,876,En Couple,1,true,8023 KG 97,8023 KG 97,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+37,M,1119,En Couple,1,false,538 PG 32,538 PG 32,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+83,M,1157,En Couple,0,true,4270 DU 15,4270 DU 15,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+46,M,534,En Couple,0,true,0 LF 51,0 LF 51,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+23,M,568,En Couple,2,false,1235 HR 23,1235 HR 23,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+28,F,1038,C�libataire,0,false,4280 PB 71,4280 PB 71,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+39,F,458,En Couple,1,true,5177 DY 32,5177 DY 32,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+33,M,459,En Couple,1,false,2671 RT 52,2671 RT 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,true,25970
+19,M,158,C�libataire,0,false,5683 YT 23,5683 YT 23,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+76,M,547,En Couple,3,false,17 AH 69,17 AH 69,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+20,M,588,En Couple,3,false,745 EB 36,745 EB 36,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+33,M,523,En Couple,1,false,2208 CY 24,2208 CY 24,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+29,M,200,En Couple,2,false,4787 SJ 58,4787 SJ 58,Renault,Laguna 2.0T,170,longue,5,5,rouge,true,19110
+48,F,1211,En Couple,2,false,5515 UL 80,5515 UL 80,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+47,F,524,C�libataire,0,false,5388 QS 13,5388 QS 13,Audi,A3 2.0 FSI,150,moyenne,5,5,rouge,true,19950
+74,M,533,C�libataire,0,false,8439 HL 12,8439 HL 12,Audi,A2 1.4,75,courte,5,5,bleu,true,12817
+37,M,223,C�libataire,0,false,7536 TJ 70,7536 TJ 70,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+20,M,187,En Couple,2,false,3513 TQ 67,3513 TQ 67,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+50,M,510,En Couple,0,false,3453 GE 43,3453 GE 43,Fiat,Croma 2.2,147,longue,5,5,rouge,false,24780
+18,F,445,Mari�(e),2,true,6186 RE 53,6186 RE 53,Peugeot,1007 1.4,75,courte,5,5,blanc,false,13750
+44,M,202,C�libataire,0,false,9509 VD 33,9509 VD 33,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+25,M,598,En Couple,2,false,5441 EA 24,5441 EA 24,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+41,M,871,En Couple,4,false,4122 QS 97,4122 QS 97,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+46,M,917,En Couple,2,false,3292 XB 92,3292 XB 92,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+39,F,585,En Couple,1,false,1841 EI 66,1841 EI 66,Renault,Laguna 2.0T,170,longue,5,5,gris,false,27300
+39,M,1045,Seule,2,false,7623 CB 38,7623 CB 38,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+46,M,595,En Couple,3,false,8831 BK 34,8831 BK 34,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+83,F,549,En Couple,1,false,3010 TV 60,3010 TV 60,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+63,M,477,En Couple,1,false,6782 JP 76,6782 JP 76,Saab,9.3 1.8T,150,longue,5,5,rouge,true,27020
+22,M,1048,C�libataire,0,false,8334 NH 92,8334 NH 92,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+74,M,505,En Couple,4,false,888 MY 80,888 MY 80,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+53,F,724,Seule, ,false,5104 HS 33,5104 HS 33,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+39,M,1136,C�libataire,0,false,4314 ZR 74,4314 ZR 74,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+51,M,714,C�libataire,0,false,9565 US 58,9565 US 58,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+42,M,163,En Couple,0,true,2578 IH 75,2578 IH 75,Kia,Picanto 1.1,65,courte,5,5,noir,false,8990
+28,F,234,En Couple,4,false,2668 QK 17,2668 QK 17,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,noir,false,30000
+56,F,415,En Couple,2,false,9345 LW 68,9345 LW 68,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,false,49200
+35,M,193,C�libataire,0,false,5542 OB 77,5542 OB 77,Dacia,Logan 1.6 MPI,90,moyenne,5,5,blanc,false,7500
+54,M,1358,En Couple,1,false,1114 ZY 19,1114 ZY 19,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+37,M,408,C�libataire,0,false,6249 ZD 20,6249 ZD 20,BMW,120i,150,moyenne,5,5,bleu,true,25060
+57,F,1223,En Couple,2,true,4944 XQ 51,4944 XQ 51,Mini,Copper 1.6 16V,115,courte,5,5,noir,false,18200
+71,M,548,En Couple,0,false,7232 PC 95,7232 PC 95,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+77,M,1217,En Couple,0,true,4459 ID 56,4459 ID 56,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+75,M,441,En Couple,2,false,7628 UY 40,7628 UY 40,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+20,M,234,En Couple,2,false,2035 VE 26,2035 VE 26,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+49,M,493,C�libataire,0,false,1278 MV 20,1278 MV 20,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+18,M,423,En Couple,1,false,9011 TG 75,9011 TG 75,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+40,M,565,C�libataire,0,false,2329 JM 19,2329 JM 19,BMW,120i,150,moyenne,5,5,bleu,true,25060
+49,M,510,En Couple,1,true,4583 FX 35,4583 FX 35,Audi,A2 1.4,75,courte,5,5,blanc,true,12817
+36,F,931,En Couple,3,false,8884 JQ 92,8884 JQ 92,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+28,F,176,En Couple,2,true,5758 LK 42,5758 LK 42,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+46,M,1214,En Couple,2,false,3958 WX 33,3958 WX 33,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+83,F,244,En Couple,2,true,7112 ZB 78,7112 ZB 78,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+61,M,1169,C�libataire,0,false,3304 NQ 72,3304 NQ 72,Mercedes,A200,136,moyenne,5,5,blanc,false,25900
+82,F,1247,En Couple,0,false,5080 YJ 56,5080 YJ 56,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+51,M,402,En Couple,0,false,4918 JZ 52,4918 JZ 52,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+26,M,855,C�libataire,0,false,9874 RJ 34,9874 RJ 34,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+34,M,244,En Couple,0,false,8525 IB 91,8525 IB 91,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,rouge,false,31790
+41,M,463,En Couple,2,false,9454 TB 18,9454 TB 18,Fiat,Croma 2.2,147,longue,5,5,bleu,false,24780
+38,F,554,En Couple,3,true,2078 JO 59,2078 JO 59,BMW,M5,507,tr�s longue,5,5,bleu,true,66360
+29,M,1034,C�libataire,0,false,6819 MM 47,6819 MM 47,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+28,M,1143,C�libataire,0,false,4121 RG 76,4121 RG 76,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+29,M,166,En Couple,2,true,4412 FE 84,4412 FE 84,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+28,M,568,En Couple,3,false,5651 UD 18,5651 UD 18,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+53,F,151,?,3,false,5254 PM 35,5254 PM 35,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+29,M,481,C�libataire,0,false,5520 CH 87,5520 CH 87,BMW,120i,150,moyenne,5,5,rouge,true,25060
+76,F,767,C�libataire,0,false,7647 XN 48,7647 XN 48,Mercedes,A200,136,moyenne,5,5,rouge,false,25900
+66,M,207,En Couple,1,false,600 BA 98,600 BA 98,Nissan,Primera 1.6,109,longue,5,5,bleu,false,18650
+31,M,803,C�libataire,0,false,7704 ZD 85,7704 ZD 85,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+56,F,524,C�libataire,0,false,7990 OX 47,7990 OX 47,Volkswagen,New Beatle 1.8,110,moyenne,5,5,bleu,false,26630
+24,M,161,En Couple,0,false,8692 UA 24,8692 UA 24,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+18,M,167,En Couple,0,false,803 XN 10,803 XN 10,Nissan,Primera 1.6,109,longue,5,5,noir,false,18650
+39,M,194,En Couple,1,false,8694 ZE 80,8694 ZE 80,Fiat,Croma 2.2,147,longue,5,5,noir,true,17346
+34,F,460,Seule,3,false,959 BP 79,959 BP 79,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+21,F,165,En Couple,4,true,7110 KT 41,7110 KT 41,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,rouge,true,34440
+26,M,1094,En Couple,4,false,1560 HK 27,1560 HK 27,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+53,F,209,En Couple,0,false,6764 SO 50,6764 SO 50,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+30,F,169,En Couple,0,false,209 OA 47,209 OA 47,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+49,M,457,C�libataire,0,false,8051 TI 91,8051 TI 91,BMW,120i,150,moyenne,5,5,bleu,true,25060
+29,M,467,C�libataire,0,false,748 JK 19,748 JK 19,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+75,M,171,C�libataire,0,false,3703 US 55,3703 US 55,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+25,Homme,505,En Couple,0,false,719 FK 44,719 FK 44,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+39,F,229,C�libataire,0,false,9383 UD 36,9383 UD 36,Peugeot,1007 1.4,75,courte,5,5,blanc,true,9625
+50,M,538,En Couple,4,false,1443 EK 75,1443 EK 75,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+81,M,153,C�libataire,0,false,6643 ZO 65,6643 ZO 65,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+52,M,580,En Couple,2,false,6831 TU 28,6831 TU 28,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+29,F,540,En Couple,0,false,3918 LJ 23,3918 LJ 23,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+28,Femme,219,En Couple,1,false,9889 IZ 97,9889 IZ 97,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+46,F,1375,C�libataire,0,false,9532 SS 37,9532 SS 37,Mini,Copper 1.6 16V,115,courte,5,5,gris,false,18200
+71,M,540,En Couple,0,false,2693 OM 22,2693 OM 22,Saab,9.3 1.8T,150,longue,5,5,bleu,true,27020
+50,F,1271,En Couple,0,false,9941 VA 41,9941 VA 41,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+24,F,952,En Couple,4,true,891 AM 10,891 AM 10,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+21,M,492,En Couple,3,false,768 EZ 43,768 EZ 43,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+33,M,211,Seule,1,false,2981 QW 59,2981 QW 59,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+84,M,431,En Couple,4,true,6312 JI 75,6312 JI 75,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+28,F,555,En Couple,1,false,4310 QA 28,4310 QA 28,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+46,M,241,En Couple,1,false,4938 NM 25,4938 NM 25,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+28,M,517,En Couple,4,true,8947 SI 89,8947 SI 89,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+31,M,480,En Couple,4,false,2724 XF 91,2724 XF 91,BMW,M5,507,tr�s longue,5,5,rouge,true,66360
+40,M,509,C�libataire,0,false,9397 CL 23,9397 CL 23,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+60,M,184,En Couple,0,false,9431 SF 70,9431 SF 70,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+77,M,1394,En Couple,2,false,7013 TD 79,7013 TD 79,Saab,9.3 1.8T,150,longue,5,5,bleu,false,38600
+20,M,1150,Seule,1,false,6598 ZU 44,6598 ZU 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+26,M,429,En Couple,1,false,7070 AO 92,7070 AO 92,Fiat,Croma 2.2,147,longue,5,5,blanc,false,24780
+80,M,596,En Couple,4,false,5556 TW 19,5556 TW 19,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+44,M,591,C�libataire,0,false,6527 MN 90,6527 MN 90,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+47,M,224,C�libataire,0,false,2921 ZI 39,2921 ZI 39,Renault,Megane 2.0 16V,135,moyenne,5,5,bleu,true,15644
+57,Homme,934,En Couple,1,false,1254 YC 60,1254 YC 60,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+75,M,468,En Couple,1,false,8509 UR 47,8509 UR 47,Mercedes,S500,306,tr�s longue,5,5,blanc,true,70910
+68,M,530,En Couple,1,false,2469 NL 22,2469 NL 22,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+58,F,444,En Couple,1,false,2923 PW 60,2923 PW 60,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,bleu,false,49200
+68,F,456,En Couple,1,false,5807 YA 20,5807 YA 20,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+33,F,162,C�libataire,0,false,2255 KW 72,2255 KW 72,Volkswagen,Polo 1.2 6V,55,courte,5,3,blanc,true,8540
+39,M,1037,En Couple,0,false,8587 EE 51,8587 EE 51,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+18,F,532,C�libataire,0,false,7816 SH 44,7816 SH 44,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+40,M,1271,Seule,2,false,128 GW 39,128 GW 39,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+22,M,151,C�libataire,0,false,5478 OR 73,5478 OR 73,Dacia,Logan 1.6 MPI,90,moyenne,5,5,noir,false,7500
+25,M,522,En Couple,4,false,7623 DO 37,7623 DO 37,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+21,M,570,En Couple,1,false,9228 WQ 79,9228 WQ 79,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,true,25970
+42,M,558,C�libataire,0,false,7036 JW 20,7036 JW 20,BMW,120i,150,moyenne,5,5,gris,true,25060
+29,M,911,En Couple,2,false,4735 EJ 58,4735 EJ 58,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+44,M,877,En Couple,4,false,9709 JT 86,9709 JT 86,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+26,M,818,En Couple,4,false,7652 OT 42,7652 OT 42,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+57,M,227,En Couple,4,false,3272 UE 40,3272 UE 40,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,rouge,false,30000
+39,M,475,En Couple,0,true,4421 IR 78,4421 IR 78,Peugeot,1007 1.4,75,courte,5,5,noir,false,13750
+20,M,1365,C�libataire,0,false,8241 PP 10,8241 PP 10,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+29,M,402,C�libataire,0,false,8012 IY 88,8012 IY 88,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+24,M,249,En Couple,3,false,4649 CS 44,4649 CS 44,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+23,M,784,En Couple,0,false,8934 CA 23,8934 CA 23,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+25,M,159,C�libataire,0,false,2487 QK 31,2487 QK 31,Nissan,Almera 1.8,115,moyenne,5,5,bleu,false,16450
+41,M,1198,En Couple,4,false,98 PQ 35,98 PQ 35,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+32,F,898,En Couple,1,false,2339 WW 62,2339 WW 62,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+77,M,181,En Couple,0,false,2927 AX 87,2927 AX 87,Seat,Toledo 1.6,102,longue,5,5,gris,false,18880
+42,F,1239,En Couple,4,false,4405 EK 79,4405 EK 79,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+54,Homme,585,En Couple,0,false,1008 UP 52,1008 UP 52,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+29,M,538,C�libataire,0,false,522 TJ 70,522 TJ 70,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+27,F,1330,Seule,1,false,6043 CD 43,6043 CD 43,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+36,M,1346,En Couple,1,false,879 ZL 46,879 ZL 46,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+33,F,932,En Couple,3,false,2837 MQ 11,2837 MQ 11,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+23,F,594,C�libataire,0,false,1123 WT 62,1123 WT 62,Volkswagen,New Beatle 1.8,110,moyenne,5,5,gris,false,26630
+69,M,1029,En Couple,1,false,3383 NY 30,3383 NY 30,Saab,9.3 1.8T,150,longue,5,5,rouge,false,38600
+19,M,205,C�libataire,0,false,7721 FJ 26,7721 FJ 26,Kia,Picanto 1.1,65,courte,5,5,bleu,false,8990
+20,F,841,C�libataire,0,false,9148 KR 40,9148 KR 40,Audi,A2 1.4,75,courte,5,5,bleu,false,18310
+39,M,1374,C�libataire,0,false,8371 FV 15,8371 FV 15,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+43,M,536,C�libataire,0,false,1664 KQ 43,1664 KQ 43,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+36,M,198,En Couple,4,false,2247 GY 29,2247 GY 29,Volvo,S80 T6,272,tr�s longue,5,5,blanc,true,35350
+66,F,458,En Couple,2,false,5298 KP 22,5298 KP 22,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+26,M,150,En Couple,0,true,2750 ZE 35,2750 ZE 35,Peugeot,1007 1.4,75,courte,5,5,rouge,true,9625
+57,M,521,En Couple,2,false,3458 YR 38,3458 YR 38,Volvo,S80 T6,272,tr�s longue,5,5,bleu,false,50500
+19,F,401,En Couple,2,false,3535 MW 78,3535 MW 78,Ford,Mondeo 1.8,125,longue,5,5,bleu,false,23900
+46,M,520,En Couple,0,false,7859 WT 30,7859 WT 30,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,blanc,false,49200
+71,M,227,En Couple,4,true,4312 OY 11,4312 OY 11,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+42,M,466,Seul,0,false,2938 DZ 24,2938 DZ 24,Peugeot,1007 1.4,75,courte,5,5,gris,false,13750
+53,F,184,C�libataire,0,false,1573 SS 56,1573 SS 56,Kia,Picanto 1.1,65,courte,5,5,blanc,false,8990
+75,M,921,En Couple,3,false,9324 BJ 22,9324 BJ 22,Mercedes,S500,306,tr�s longue,5,5,gris,false,101300
+-1,M,249,C�libataire,0,false,9190 RX 13,9190 RX 13,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,true,8540
+50,F,594,En Couple,2,false,4627 VL 71,4627 VL 71,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+53,F,472,En Couple,1,true,5421 PY 60,5421 PY 60,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+43,M,490,C�libataire,0,false,6810 DD 84,6810 DD 84,Renault,Megane 2.0 16V,135,moyenne,5,5,rouge,false,22350
+79,M,481,En Couple,3,false,4317 QA 26,4317 QA 26,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+68,M,1206,En Couple,0,true,9468 VG 60,9468 VG 60,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+61,M,475,Seule,2,false,6124 SA 80,6124 SA 80,Saab,9.3 1.8T,150,longue,5,5,noir,true,27020
+34,M,187,C�libataire,0,false,4520 RT 10,4520 RT 10,Kia,Picanto 1.1,65,courte,5,5,gris,false,8990
+69,F,997,En Couple,0,false,8337 JP 16,8337 JP 16,Mercedes,S500,306,tr�s longue,5,5,rouge,false,101300
+56,M,454,En Couple,0,false,8943 RW 29,8943 RW 29,Ford,Mondeo 1.8,125,longue,5,5,rouge,false,23900
+29,M,911,Mari�(e),4,true,7254 DW 85,7254 DW 85,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+40,M,492,C�libataire,0,false,2532 NZ 11,2532 NZ 11,BMW,120i,150,moyenne,5,5,gris,true,25060
+71,F,215,En Couple,4,false,4726 SD 28,4726 SD 28,Skoda,Superb 2.8 V6,193,tr�s longue,5,5,noir,false,31790
+39,M,404,En Couple,2,false,442 OI 80,442 OI 80,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+33,M,481,C�libataire,0,false,527 MO 40,527 MO 40,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+32,M,1104,En Couple,1,false,4297 QT 44,4297 QT 44,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+35,M,532,En Couple,1,false,8001 QX 89,8001 QX 89,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+22,M,576,En Couple,4,false,7497 UN 67,7497 UN 67,BMW,M5,507,tr�s longue,5,5,gris,true,66360
+40,F,518,C�libataire,0,false,7677 BJ 66,7677 BJ 66,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,bleu,false,22900
+28,M,1072,C�libataire,0,false,8069 DF 64,8069 DF 64,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+72,M,549,En Couple,4,true,8711 JH 20,8711 JH 20,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+79,F,581,C�libataire,0,false,7193 QX 33,7193 QX 33,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+36,F,200,C�libataire,0,false,9604 JB 27,9604 JB 27,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,true,8540
+66,M,195,En Couple,0,false,9300 RR 26,9300 RR 26,Ford,Mondeo 1.8,125,longue,5,5,gris,true,16730
+65,F,1063,C�libataire,0,false,3004 WJ 12,3004 WJ 12,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+31,F,232,En Couple,4,false,1718 GZ 49,1718 GZ 49,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+51,M,1289,En Couple,1,false,5816 LR 96,5816 LR 96,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+55,F,425,En Couple,4,true,2802 MX 33,2802 MX 33,Volvo,S80 T6,272,tr�s longue,5,5,rouge,false,50500
+18,M,509,En Couple,2,false,6740 AO 44,6740 AO 44,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+38,M,1035,En Couple,3,false,5853 JT 96,5853 JT 96,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+53,F,550,En Couple,0,false,3358 JP 48,3358 JP 48,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+49,M,934,C�libataire,0,false,2605 HQ 25,2605 HQ 25,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+71,F,429,En Couple,0,true,6357 IE 28,6357 IE 28,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+30,M,1104,En Couple,2,false,826 YM 56,826 YM 56,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+34,F,481,Seule,1,false,4650 FP 27,4650 FP 27,Fiat,Croma 2.2,147,longue,5,5,gris,false,24780
+28,M,954,En Couple,1,false,7535 UK 89,7535 UK 89,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+23,M,1089,C�libataire,0,false,5697 RW 42,5697 RW 42,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+57,M,482,En Couple,1,false,7081 RF 61,7081 RF 61,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+48,M,909,En Couple,0,false,6081 DV 48,6081 DV 48,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+39,M,406,C�libataire,0,false,6631 UU 22,6631 UU 22,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+36,F,243,Seule,3,false,3535 RR 12,3535 RR 12,Fiat,Croma 2.2,147,longue,5,5,rouge,true,17346
+84,M,523,En Couple,3,false,9416 KW 42,9416 KW 42,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+22,M,184,En Couple,3,false,8599 WU 13,8599 WU 13,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,true,34440
+21,F,739,En Couple,2,false,1519 FX 39,1519 FX 39,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+50,F,538,En Couple,1,false,2947 AR 30,2947 AR 30,Renault,Laguna 2.0T,170,longue,5,5,noir,false,27300
+72,M,438,En Couple,3,false,5890 IH 85,5890 IH 85,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+38,M,482,En Couple,2,false,449 OG 20,449 OG 20,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+28,N/D,431,En Couple,0,false,7366 GI 96,7366 GI 96,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+78,M,511,En Couple,1,false,1792 TE 51,1792 TE 51,Saab,9.3 1.8T,150,longue,5,5,blanc,true,27020
+29,F,232,En Couple,0,false,7684 HD 19,7684 HD 19,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+20,M,577,En Couple,0,false,4995 PY 17,4995 PY 17,Volvo,S80 T6,272,tr�s longue,5,5,blanc,false,50500
+31,M,804,C�libataire,0,false,1095 FY 50,1095 FY 50,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+59,F,735,C�libataire,0,false,1756 TP 39,1756 TP 39,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+38,M,468,En Couple,4,false,1371 RY 13,1371 RY 13,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+38,F,764,En Couple,0,false,5601 UP 18,5601 UP 18,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+25,M,1119,En Couple,1,false,2191 KY 58,2191 KY 58,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,false,37100
+18,M,536,En Couple,1,true,7147 UG 37,7147 UG 37,Audi,A2 1.4,75,courte,5,5,noir,true,12817
+30,F,573,En Couple,0,true,9763 NJ 35,9763 NJ 35,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,false,12200
+37,M,1354,Seul,0,false,5169 GQ 26,5169 GQ 26,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+53,F,1296,C�libataire,0,false,1210 BX 67,1210 BX 67,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+44,F,793,En Couple,1,false,8961 KM 26,8961 KM 26,BMW,M5,507,tr�s longue,5,5,bleu,false,94800
+48,M,499,C�libataire,0,false,8281 TS 48,8281 TS 48,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+27,F,985,En Couple,4,false,9399 UT 37,9399 UT 37,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+43,M,180,En Couple,1,false,5830 SI 31,5830 SI 31,Ford,Mondeo 1.8,125,longue,5,5,blanc,true,16730
+30,M,404,En Couple,2,false,8180 NE 58,8180 NE 58,Renault,Laguna 2.0T,170,longue,5,5,blanc,false,27300
+80,M,464,En Couple,1,true,2121 EJ 49,2121 EJ 49,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+23,M,576,C�libataire,0,false,5095 EJ 50,5095 EJ 50,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,noir,false,22900
+36,M,447,C�libataire,0,false,6797 EY 15,6797 EY 15,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+26,M,815,C�libataire,0,false,8454 PV 77,8454 PV 77,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+43,M,460,En Couple,2,false,7583 ZN 51,7583 ZN 51,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+25,M,472,C�libataire,0,false,6422 CM 40,6422 CM 40,Volkswagen,Polo 1.2 6V,55,courte,5,3,bleu,false,12200
+65,F,534,En Couple,2,true,8142 UD 67,8142 UD 67,Volkswagen,Polo 1.2 6V,55,courte,5,3,gris,false,12200
+38,M,1194,En Couple,1,false,9262 BF 46,9262 BF 46,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+49,M,598,Seule,3,false,4537 JF 36,4537 JF 36,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,noir,false,49200
+82,M,520,C�libataire,0,false,9976 KB 69,9976 KB 69,Mercedes,A200,136,moyenne,5,5,blanc,true,18130
+78,M,487,En Couple,3,false,9604 MN 54,9604 MN 54,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+76,M,217,En Couple,3,false,9744 ZW 22,9744 ZW 22,Nissan,Maxima 3.0 V6,200,tr�s longue,5,5,bleu,false,30000
+39,M,500,C�libataire,0,false,3442 UK 37,3442 UK 37,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,blanc,false,22900
+42,F,543,En Couple,2,false,7442 IL 48,7442 IL 48,Ford,Mondeo 1.8,125,longue,5,5,blanc,false,23900
+18,M,915,C�libataire,0,false,1803 VN 37,1803 VN 37,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+57,M,704,Seule,1,false,7071 QD 35,7071 QD 35,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,false,37100
+47,M,872,En Couple,0,false,5736 JC 50,5736 JC 50,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+75,M,428,C�libataire,0,false,5688 AX 62,5688 AX 62,Mercedes,A200,136,moyenne,5,5,rouge,true,18130
+61,F,849,En Couple,0,true,7713 DP 94,7713 DP 94,Audi,A2 1.4,75,courte,5,5,rouge,false,18310
+29,M,1331,En Couple,1,true,1393 YT 58,1393 YT 58,Audi,A2 1.4,75,courte,5,5,noir,false,18310
+31,M,482,C�libataire,0,false,6470 BV 44,6470 BV 44,Peugeot,1007 1.4,75,courte,5,5,rouge,false,13750
+22,Homme,441,En Couple,2,false,9231 BK 91,9231 BK 91,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,false,49200
+45,M,404,C�libataire,0,false,1826 KQ 66,1826 KQ 66,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+18,M,161,En Couple,3,false,2890 PQ 44,2890 PQ 44,Volvo,S80 T6,272,tr�s longue,5,5,bleu,true,35350
+38,M,194,En Couple,2,true,5241 GS 15,5241 GS 15,Daihatsu,Cuore 1.0,58,courte,5,3,rouge,false,8850
+47,M,557,Seule,3,false,1595 MK 37,1595 MK 37,Jaguar,X-Type 2.5 V6,197,longue,5,5,bleu,true,25970
+64,F,522,En Couple,4,false,4171 RI 43,4171 RI 43,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+76,M,443,En Couple,4,false,8590 RB 75,8590 RB 75,Mercedes,S500,306,tr�s longue,5,5,noir,true,70910
+27,F,875,Seule,2,false,5181 OI 28,5181 OI 28,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,false,37100
+72,F,403,C�libataire,0,false,9361 CE 27,9361 CE 27,Audi,A2 1.4,75,courte,5,5,gris,true,12817
+59,M,588,En Couple,2,false,2391 JO 90,2391 JO 90,Fiat,Croma 2.2,147,longue,5,5,noir,false,24780
+80,M,592,En Couple,1,false,1715 QG 74,1715 QG 74,Mercedes,S500,306,tr�s longue,5,5,gris,true,70910
+41,F,231,En Couple,0,false,4352 AB 25,4352 AB 25,Seat,Toledo 1.6,102,longue,5,5,rouge,false,18880
+69,M,553,En Couple,3,false,85 BD 44,85 BD 44,Mercedes,S500,306,tr�s longue,5,5,rouge,true,70910
+53,M,1249,En Couple,0,false,7348 VJ 88,7348 VJ 88,BMW,M5,507,tr�s longue,5,5,noir,false,94800
+35,M,1385,C�libataire,0,false,188 JP 47,188 JP 47,Audi,A2 1.4,75,courte,5,5,gris,false,18310
+21,M,180,C�libataire,0,false,7358 UT 20,7358 UT 20,Volkswagen,Polo 1.2 6V,55,courte,5,3,noir,true,8540
+29,M,430,En Couple,2,false,7820 MC 78,7820 MC 78,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+37,F,175,En Couple,4,true,3501 CB 24,3501 CB 24,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+52,F,1117,En Couple,3,false,3630 FM 21,3630 FM 21,BMW,M5,507,tr�s longue,5,5,rouge,false,94800
+20,F,746,C�libataire,0,false,8883 EY 20,8883 EY 20,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+57,M,165,C�libataire,0,false,7482 EW 76,7482 EW 76,Dacia,Logan 1.6 MPI,90,moyenne,5,5,bleu,false,7500
+64,M,990,C�libataire,0,false,6768 CY 62,6768 CY 62,Mercedes,A200,136,moyenne,5,5,noir,false,25900
+23,F,496,C�libataire,0,false,8925 UB 92,8925 UB 92,BMW,120i,150,moyenne,5,5,noir,true,25060
+69,M,1060,C�libataire,0,false,6907 DK 57,6907 DK 57,Mercedes,A200,136,moyenne,5,5,noir,false,25900
+18,M,152,C�libataire,0,false,5380 JI 20,5380 JI 20,Peugeot,1007 1.4,75,courte,5,5,noir,true,9625
+58,M,1134,En Couple,2,false,5897 CY 96,5897 CY 96,Jaguar,X-Type 2.5 V6,197,longue,5,5,rouge,false,37100
+44,M,228,En Couple,4,false,4687 EI 59,4687 EI 59,Volvo,S80 T6,272,tr�s longue,5,5,noir,true,35350
+28,M,434,En Couple,4,false,7363 IJ 31,7363 IJ 31,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+18,F,433,C�libataire,0,false,2622 XB 12,2622 XB 12,Renault,Megane 2.0 16V,135,moyenne,5,5,gris,false,22350
+27,M,563,En Couple,4,false,4324 GL 73,4324 GL 73,BMW,M5,507,tr�s longue,5,5,noir,true,66360
+48,F,412,C�libataire,0,false,4775 VY 36,4775 VY 36,Audi,A2 1.4,75,courte,5,5,rouge,true,12817
+19,M,1145,C�libataire,0,false,7928 ZA 54,7928 ZA 54,Audi,A2 1.4,75,courte,5,5,blanc,false,18310
+25,F,232,En Couple,1,false,1485 FV 66,1485 FV 66,Renault,Vel Satis 3.5 V6,245,tr�s longue,5,5,gris,true,34440
+30,M,553,En Couple,4,false,6862 BC 37,6862 BC 37,Volvo,S80 T6,272,tr�s longue,5,5,noir,false,50500
+81,M,426,Seule,1,false,2762 BO 91,2762 BO 91,Mercedes,S500,306,tr�s longue,5,5,bleu,true,70910
+50,F,589,Seule,2,false,2775 TI 97,2775 TI 97,Jaguar,X-Type 2.5 V6,197,longue,5,5,noir,true,25970
+19,F,441,C�libataire,0,false,454 RO 77,454 RO 77,Renault,Megane 2.0 16V,135,moyenne,5,5,noir,false,22350
+77,F,493,En Couple,2,true,4596 WJ 76,4596 WJ 76,Volkswagen,Polo 1.2 6V,55,courte,5,3,rouge,false,12200
+26,M,404,En Couple,0,false,1468 WT 69,1468 WT 69,Renault,Laguna 2.0T,170,longue,5,5,rouge,false,27300
+24,M,154,C�libataire,0,false,7802 JA 89,7802 JA 89,Nissan,Almera 1.8,115,moyenne,5,5,blanc,false,16450
+55,M,510,C�libataire,0,false,5372 VI 68,5372 VI 68,BMW,120i,150,moyenne,5,5,blanc,true,25060
+47,M,506,En Couple,4,false,8625 KN 34,8625 KN 34,BMW,M5,507,tr�s longue,5,5,blanc,true,66360
+23,M,1205,En Couple,3,false,5619 YR 11,5619 YR 11,BMW,M5,507,tr�s longue,5,5,blanc,false,94800
+24,M,575,En Couple,0,false,5280 DZ 13,5280 DZ 13,Volvo,S80 T6,272,tr�s longue,5,5,gris,false,50500
+27,M,745,En Couple,4,false,3300 RC 33,3300 RC 33,BMW,M5,507,tr�s longue,5,5,gris,false,94800
+18,M,480,C�libataire,0,false,6915 CA 45,6915 CA 45,Volkswagen,Golf 2.0 FSI,150,moyenne,5,5,rouge,false,22900
+46,M,576,En Couple,1,false,4386 HJ 84,4386 HJ 84,Jaguar,X-Type 2.5 V6,197,longue,5,5,gris,true,25970
+35,F,921,En Couple,2,false,5845 DF 61,5845 DF 61,Jaguar,X-Type 2.5 V6,197,longue,5,5,blanc,false,37100
+35,F,921,En Couple,2,false,5845 DF 61,5845 DF 61,Jaguard,X-Typeddd 2.5 V6,197,longue,5,5,blanc,false,37100
