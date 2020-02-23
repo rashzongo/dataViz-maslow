@@ -9,11 +9,19 @@ div {
   width: 100%;
 }
 rect {
-  fill: DodgerBlue;
+  fill: dimgray;
 }
 .entete{
-  height: 20%;
+  height: 40%;
   background-color: lightgrey;
+  
+  margin: 25px;
+}
+p{
+  margin: 25px;
+}
+.file{
+  margin: 25px;
 }
 header{
   height: auto;
@@ -100,7 +108,7 @@ header{
 	height: 100%;
   float: left;  
   padding: 70px;
-  background-color: lightslategray;
+  background-color: gainsboro;
 }
 
 #droite {
