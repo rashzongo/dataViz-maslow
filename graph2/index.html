@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title> Data Visualisation </title>
+	<!-- call file css -->
+	<link rel="stylesheet" href="dc.css">
+	<link rel="stylesheet" href="style.css">
+	
+</head>
+<body>
+	<div class="text">
+		<h2> Nombre de voitures selon la marque </h2>
+		<hr  width = "50%" size="1" color="black">
+		<h3>Dashboard</h3>
+	</div>
+	<!-- id marque  -->
+	<div id="marquedim">
+		<div class="leftbox"></div>
+	</div>
+	<!-- call library -->
+	<script src="crossfilter.js"></script>
+	<script src="d3.js"></script>
+	<script src="dc.js"></script>
+<script> 
+
+ var marquechart = dc.rowChart("#marquedim");
+//loading data 
+d3.csv ("../common/data/Immatriculations.csv", function (err,data) {
+if (err) throw err ;
+//console.log(data)
+// create a crossfilter to the data
+var ndx = crossfilter (data);
+// group my data
+var all = ndx.groupAll(); 
+var marquedim = ndx.dimension (function(d) {return d["marque"];});
+var marquegroup = marquedim.group();
+marquechart.dimension(marquedim)
+				.group(marquegroup)
+				.height(400);
+				dc.renderAll();
+
+
+});
+  </script>
+</body>
+</html>
