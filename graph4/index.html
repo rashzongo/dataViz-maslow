@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Making a Bar Chart</title>
+    <title>Graphe4</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
     <script src="https://d3js.org/d3-dsv.v1.min.js"></script>
@@ -19,6 +19,15 @@
       <div class="col">
         <h1>Le nombre d'achat selon l'état de voiture</h1>
       </div>
+      <div>
+        <p>Vous devez importez un fichier csv dont son header contient : 
+         marque, nom, occasion, nbPortes, nbPlaces, longueur <br></p>
+         <p>Par défault une partie de données du fichier immatriculation est chargée</p>
+        <label class="file" for="csvFile">Fichier CSV : </label>
+        <input class="file" type="file" name="csvFile" id="csvFile" accept=".csv" required />
+    </div>
+    <br>
+    <button class="file" type="submit">Construire le graphe</button>
     </div>
     <div class= "row" no-gutters id="global">
       <div class ="col-sm-3" id="gauche">        
@@ -50,7 +59,7 @@
             <input type="radio" name="Longeur" id="moyenne" value="moyenne"> moyenne<br>
             <input type="radio" name="Longeur" id="longue" value="Longue"> Longue<br>
             <input type="radio" name="Longeur" id="t_longue" value="très Longue"> très Longue<br>
-
+            <input type="radio" name="Longeur" id="tous" value="tous">Tous<br>
           </div>
         </div>
       </div>

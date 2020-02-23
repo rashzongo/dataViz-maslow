@@ -65,6 +65,7 @@
     d3.select("#moyenne").on("change",update);
     d3.select("#longue").on("change",update);
     d3.select("#t_longue").on("change",update);
+    d3.select("#tous").on("change",update);
 			update();
 			
       
@@ -248,7 +249,31 @@
           svg.selectAll("*").remove();
         }
         else {
-          
+          filteredData = newData;
+          if(d3.select("#trois").property("checked")){
+            let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
+            filteredData = trois;
+            if(d3.select("#cinq").property("checked")){
+              let cinq = newData.filter(function(d,i){return (d.nbPorte == "5") && (d.longueur.length > 9);});
+              for(let i = 0; i < cinq.length; i++ ){
+                filteredData.push(cinq[i]);
+              }
+            }
+          }
+          else if(d3.select("#cinq").property("checked")){
+            let cinq = filteredData.filter(function(d,i){return d.nbPorte == "5";});
+            filteredData = cinq;   
+            if(d3.select("#trois").property("checked")){
+              let trois = newData.filter(function(d,i){return (d.nbPorte == "3") && (d.longueur.length > 9);});
+              for(let i = 0; i < trois.length; i++ ){
+                filteredData.push(trois[i]);
+              }
+            }         
+          }
+          else {
+            filteredData = newData;
+          }
+          svg.selectAll("*").remove();
         }
         
         
