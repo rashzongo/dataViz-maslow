@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="../style.css">
+<style>
+  body {
+        width: 95%;
+        height: 500px;
+    }
+
+    svg {
+        width: 100%;
+        height: 100%;
+    }
+
+    path.slice {
+        stroke-width: 2px;
+    }
+
+    polyline {
+        opacity: .3;
+        stroke: black;
+        stroke-width: 2px;
+        fill: none;
+    }
+
+    .select-style {
+        padding: 0;
+        margin: 0;
+        border: 1px solid #ccc;
+        width: 200px;
+        border-radius: 3px;
+        overflow: hidden;
+        background-color: #fff;
+        background: #fff;
+        position: relative;
+    }
+
+        .select-style select {
+            padding: 5px 8px;
+            width: 130%;
+            border: none;
+            box-shadow: none;
+            background-color: transparent;
+            background-image: none;
+            -webkit-appearance: none;
+            -moz-appearance: none;
+            appearance: none;
+        }
+
+        .select-style:after {
+            top: 50%;
+            left: 85%;
+            border: solid transparent;
+            content: " ";
+            height: 0;
+            width: 0;
+            position: absolute;
+            pointer-events: none;
+            border-color: rgba(0, 0, 0, 0);
+            border-top-color: #000000;
+            border-width: 5px;
+            margin-top: -2px;
+            z-index: 100;
+        }
+
+        .select-style select:focus {
+            outline: none;
+        }
+
+</style>
+
+<body>
+
+<h1>Pie Charts diagrams</h1>
+<h4>Répartition des modeles des vehicules en fonction de prix, puissance et typemodel</h4>
+
+
+<form>
+    <div>
+        <p>selectionner un critere</p>
+        <select name="DropDownList">
+            <option selected>Modele</option>
+            <option>Prix</option>
+            <option>Couleur</option>
+            <option>puissance</option>
+        </select>
+    </div>
+</form>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script>
+
+    d3.csv("file.csv", function(error, data) {
+      if (error) throw error;
+
+
+            // Création du conteneur
+
+            var svg = d3.select("body")
+                .append("svg")
+                .append("g")
+
+            svg.append("g")
+                .attr("class", "slices");
+            svg.append("g")
+                .attr("class", "labels");
+            svg.append("g")
+                .attr("class", "lines");
+
+            var width = 960,
+                height = 450,
+                radius = Math.min(width, height) / 2;
+
+            var pie = d3.layout.pie()
+                .sort(null)
+                .value(function (d) {
+                    return d.value;
+                });
+
+            var arc = d3.svg.arc()
+                .outerRadius(radius * 0.8)
+                .innerRadius(radius * 0.4);
+
+            var outerArc = d3.svg.arc()
+                .innerRadius(radius * 0.9)
+                .outerRadius(radius * 0.9);
+
+            svg.attr("transform", "translate(" + width / 1.35 + "," + height / 2 + ")");
+
+            var key = function (d) { return d.data.label; };
+
+            var color = d3.scale.ordinal();
+
+
+            // Découpage du graphique en fonction des valeurs de chaque label
+            // A NE SURTOUT PAS MODIFIER !!
+
+            function change(data) {
+
+                /* ------- PIE SLICES -------*/
+                var slice = svg.select(".slices").selectAll("path.slice")
+                    .data(pie(data), key);
+
+                slice.enter()
+                    .insert("path")
+                    .style("fill", function (d) { return color(d.data.label); })
+                    .attr("class", "slice");
+
+                slice
+                    .transition().duration(1000)
+                    .attrTween("d", function (d) {
+                        this._current = this._current || d;
+                        var interpolate = d3.interpolate(this._current, d);
+                        this._current = interpolate(0);
+                        return function (t) {
+                            return arc(interpolate(t));
+                        };
+                    })
+
+                slice.exit()
+                    .remove();
+
+                /* ------- TEXT LABELS -------*/
+
+                var text = svg.select(".labels").selectAll("text")
+                    .data(pie(data), key);
+
+                text.enter()
+                    .append("text")
+                    .attr("dy", ".35em")
+                    .text(function (d) {
+                        return d.data.label;
+                    });
+
+                function midAngle(d) {
+                    return d.startAngle + (d.endAngle - d.startAngle) / 2;
+                }
+
+                text.transition().duration(1000)
+                    .attrTween("transform", function (d) {
+                        this._current = this._current || d;
+                        var interpolate = d3.interpolate(this._current, d);
+                        this._current = interpolate(0);
+                        return function (t) {
+                            var d2 = interpolate(t);
+                            var pos = outerArc.centroid(d2);
+                            pos[0] = radius * (midAngle(d2) < Math.PI ? 1 : -1);
+                            return "translate(" + pos + ")";
+                        };
+                    })
+                    .styleTween("text-anchor", function (d) {
+                        this._current = this._current || d;
+                        var interpolate = d3.interpolate(this._current, d);
+                        this._current = interpolate(0);
+                        return function (t) {
+                            var d2 = interpolate(t);
+                            return midAngle(d2) < Math.PI ? "start" : "end";
+                        };
+                    });
+
+                text.exit()
+                    .remove();
+
+                /* ------- SLICE TO TEXT POLYLINES -------*/
+
+                var polyline = svg.select(".lines").selectAll("polyline")
+                    .data(pie(data), key);
+
+                polyline.enter()
+                    .append("polyline");
+
+                polyline.transition().duration(1000)
+                    .attrTween("points", function (d) {
+                        this._current = this._current || d;
+                        var interpolate = d3.interpolate(this._current, d);
+                        this._current = interpolate(0);
+                        return function (t) {
+                            var d2 = interpolate(t);
+                            var pos = outerArc.centroid(d2);
+                            pos[0] = radius * 0.95 * (midAngle(d2) < Math.PI ? 1 : -1);
+                            return [arc.centroid(d2), outerArc.centroid(d2), pos];
+                        };
+                    });
+
+                polyline.exit()
+                    .remove();
+            };
+
+
+            /* -- modele des vehicules --*/
+
+            function ModelsSelector() {
+            var modelsNeuf = 0;
+            var modelsOccasions = 0;
+
+            data.forEach(function (d) {
+            if (d.occasion == 'true') {
+              modelsOccasions += 1;
+            } if (d.occasion == 'false') {
+              modelsNeuf +=1;
+            }
+            });
+
+            // Calcul des pourcentages
+            var total = modelsNeuf + modelsOccasions;
+            var per_Neuf = Math.round((modelsNeuf / total) * 100);
+            var per_Occ = Math.round((modelsOccasions / total) * 100);
+
+            values = [modelsNeuf, modelsOccasions];
+
+            // Définition des labels
+            color = d3.scale.ordinal()
+               .domain(["modelsNeuf (" + per_Neuf + "%)", "modelsOccasions (" + per_Occ + "%)"])
+               .range(["#98abc5", "#8a89a6"]);
+            }
+
+            /* -- prix des vehicules --*/
+
+            function PrixSelector() {
+
+            var prix1 = 0;
+            var prix4 = 0;
+            var prix7 = 0;
+            var prix10 = 0;
+            var prix13= 0;
+            var prix14 =0;
+
+            data.forEach(function (d) {
+            if (d.prix >= 7500) {
+               prix1 += 1;
+            }
+            if (d.prix > 7500 && d.prix < 30000) {
+               prix4 += 1;
+            }
+            if (d.prix >=30000 && d.prix < 52500) {
+               prix7 += 1;
+            }
+            if (d.prix >= 52500 && d.prix < 75000) {
+               prix10 += 1;
+            }
+            if(d.prix >=75000 && d.prix < 97500) {
+               prix13 += 1;
+            }
+            if (d.prix >= 97500) {
+               prix14 += 1;
+            }
+            });
+
+            //calcul des pourcentages
+
+            var total = prix1 + prix4 + prix7 + prix10 +prix13 + prix14;
+            var prix1_per = Math.round((prix1 / total) * 100);
+            var prix4_per = Math.round((prix4 / total) * 100);
+            var prix7_per = Math.round((prix7 / total) * 100);
+            var prix10_per = Math.round((prix10 / total) * 100);
+            var prix13_per = Math.round((prix13 / total) * 100);
+            var prix14_per = Math.round((prix14 / total) * 100);
+
+            values = [prix1, prix4, prix7, prix10, prix13, prix14]
+
+            color = d3.scale.ordinal()
+               .domain(["7500€ (" + prix1_per + "%)", "7500-30000€ (" + prix4_per + "%)", "30000-52500€ (" + prix7_per + "%)", "52500-75000€ (" + prix10_per + "%)", "75000-97500€ (" + prix13_per + "%)", "97500€ (" + prix14_per + "%)"])
+               .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#668cff", "#aaff80"]);
+            }
+
+
+           /* --couleur des vehicule --*/
+
+           function CouleurSelector() {
+
+            var blanc = 0;
+            var bleu = 0;
+            var gris = 0;
+            var noir = 0;
+            var rouge = 0;
+
+            data.forEach(function (d) {
+              if (d.couleur == "blanc") {
+               blanc +=1;
+              }
+              if (d.couleur == "bleu") {
+                  bleu +=1;
+               }
+              if (d.couleur == "gris") {
+                  gris +=1;
+              } if (d.couleur == "noir") {
+                  noir +=1;
+              } if (d.couleur == "rouge") {
+                  rouge +=1;
+              }
+            });
+
+            // Calcul des pourcentages
+            var total = blanc + bleu + gris + noir + rouge;
+            var blanc_per = Math.round((blanc / total) * 100);
+            var bleu_per = Math.round((bleu / total) * 100);
+            var gris_per = Math.round((gris / total) * 100);
+            var noir_per = Math.round((noir / total) * 100);
+            var rouge_per = Math.round((rouge / total) * 100);
+
+            values = [blanc, bleu, gris, noir, rouge];
+
+            color = d3.scale.ordinal()
+              .domain(["blanc (" + blanc_per + "%)", "bleu (" + bleu_per + "%)", "gris (" + gris_per + "%)", "noir (" + noir_per + "%)", "rouge (" + rouge_per + "%)" ])
+              .range(["#F0FFF0", "#1E90FF", "#696969", "#000000", "#FF0000"]);
+            }
+
+            /* --  fonction : voiture selon les puisance --*/
+
+            function PuissanceSelector() {
+            var pui55 = 0;
+            var pui55_165;
+            var pui165_495;
+            var pui495_507;
+
+
+            }
+
+
+          function Data() {
+                var labels = color.domain();
+                let i = -1;
+                return labels.map(function (label) {
+                    i++;
+                    return { label: label, value: values[i] }
+                });
+            }
+
+        // Par défaut au modele des véhicules
+
+        var variable = "Modele";
+        var values = [];
+        ModelsSelector();
+        // appel a la fonction data
+        change(Data());
+
+
+        document.querySelector("select").addEventListener("change", function() {
+
+        variable = this.value;
+
+        if (variable == "Modele") {
+         ModelsSelector();
+        }
+
+        if (variable == "Prix") {
+          PrixSelector();
+        }
+
+        if (variable == "Couleur") {
+         CouleurSelector();
+        }
+
+        if (variable == "Puissance") {
+           PuissanceSelector();
+        }
+
+        change(Data());
+
+        }, false);
+
+
+        });
+
+
+</script>
+</body>
