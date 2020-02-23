@@ -87,7 +87,7 @@
             <option selected>Modele</option>
             <option>Prix</option>
             <option>Couleur</option>
-            <option>puissance</option>
+            <option>Puissance</option>
         </select>
     </div>
 </form>
@@ -350,17 +350,37 @@
               .range(["#F0FFF0", "#1E90FF", "#696969", "#000000", "#FF0000"]);
             }
 
-            /* --  fonction : voiture selon les puisance --*/
+            /* --Puisance des vehicule --*/
 
             function PuissanceSelector() {
-            var pui55 = 0;
-            var pui55_165;
-            var pui165_495;
-            var pui495_507;
+            /*-- var pui55_165;
+            var pui165_455;
+            var pui455_507;
 
+            data.forEach(function (d) {
+            if (d.puissance > 55 && d.puissance < 165) {
+            pui55_165 +=1;
+            }
+            if (d.puissance >= 165 && d.puissance < 455 ) {
+            pui165_455 +=1;
+            }
+            if (d.puissance >= 455 && d.puissance < 507 ) {
+            pui455_507 += 1;
+            }
+            });
+
+            var total = pui55_165 + pui165_455 + pui455_507;
+            var puiss1 = Math.round((pui55_165 / total) * 100);
+            var puiss2 = Math.round((pui165_455 / total) * 100);
+            var puiss3 = Math.round((pui455_507 / total) * 100);
+
+            values = [pui55_165, pui165_455, pui455_507];
+
+            color = d3.scale.ordinal()
+            .domain(["55-165 (" +puiss1 + "%)", "165-455 (" + puiss2 + "%)", "455-507 (" + puiss3 + "%)"])
+            .range(["07F998", "F95007", "F90707"]); --*/
 
             }
-
 
           function Data() {
                 var labels = color.domain();
