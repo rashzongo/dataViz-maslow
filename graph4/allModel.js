@@ -64,7 +64,6 @@
 			
       function update(){
         var newData = new Array();
-        var filteredData = new Array();
         var taille = new Array();
     	
         var titleText = "";
@@ -84,12 +83,17 @@
           alert("Choisissez un etat de voiture !! ");
         }
         if(d3.select("#trois").property("checked")){
-          filteredData = newData.filter(function(d,i){return d.nbPorte == "3";});
+          console.log("trois");
+          var filteredData = new Array();
+          filteredData = newData.filter(function(d,i){return d.nbPorte=="3";});
+          console.log("filtredData avant =",filteredData);
+
           if(d3.select("#cinq").property("checked")){
             let cinq = newData.filter(function(d,i){return d.nbPorte == "5";});
             for(let i = 0; i < cinq.length; i++ ){
               filteredData.push(cinq[i]);
             }
+            console.log("filtredData aprés cinq =",filteredData);
             if(d3.select("#petite").property("checked")){
               taille= filteredData.filter(function(d,i){return d.longueur =="courte"})
               console.log("taille =>", taille);
@@ -104,7 +108,7 @@
               let longue= filteredData.filter(function(d,i){return d.longueur =="longue"})
               filteredData= longue;
             }
-            else{
+            else if(d3.select("#t_longue").property("checked")){
               let t_longue= filteredData.filter(function(d,i){return d.longueur.length >9 })
               filteredData= t_longue;
             }
@@ -113,6 +117,9 @@
           }
         }         
         else if(d3.select("#cinq").property("checked")){
+          console.log("cinq");
+
+          var filteredData = new Array();
           filteredData = newData.filter(function(d,i){return d.nbPorte == "5";});
           if(d3.select("#trois").property("checked")){
             let trois = newData.filter(function(d,i){return d.nbPorte == "3";});
@@ -132,7 +139,7 @@
               let longue= filteredData.filter(function(d,i){return d.longueur =="longue"})
               filteredData= longue;
             }
-            else{
+            else if(d3.select("#t_longue").property("checked")){
               let t_longue= filteredData.filter(function(d,i){return d.longueur.length >9 })
               filteredData= t_longue;
             }
@@ -140,10 +147,14 @@
           }
         }
         else {
+          console.log("ni cinq ni 3");
           filteredData = newData;	
           svg.selectAll("*").remove();
         }	
         if(d3.select("#petite").property("checked")){
+          console.log("petite");
+
+          var filteredData = new Array();
           filteredData = newData.filter(function(d,i){return d.longueur == "courte";});
           if(d3.select("#trois").property("checked")){
             let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
@@ -171,6 +182,8 @@
           svg.selectAll("*").remove();
         }
         else if(d3.select("#moyenne").property("checked")){
+          console.log("moyenne");
+
           filteredData = newData.filter(function(d,i){return d.longueur == "moyenne";});
           if(d3.select("#trois").property("checked")){
             let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
@@ -198,6 +211,7 @@
           svg.selectAll("*").remove();
         }
         else if(d3.select("#longue").property("checked")){
+          console.log("longue");
           filteredData = newData.filter(function(d,i){return d.longueur == "longue";});
           if(d3.select("#trois").property("checked")){
             let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
@@ -225,6 +239,8 @@
           svg.selectAll("*").remove();
         }
         else if(d3.select("#t_longue").property("checked")){
+          console.log("t_longue");
+
           filteredData = newData.filter(function(d,i){return d.longueur.length > 9;});
           if(d3.select("#trois").property("checked")){
             let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
@@ -252,34 +268,11 @@
           svg.selectAll("*").remove();
         }
         else {
-          filteredData = newData;
-          if(d3.select("#trois").property("checked")){
-            let trois = filteredData.filter(function(d,i){return d.nbPorte == "3";});
-            filteredData = trois;
-            if(d3.select("#cinq").property("checked")){
-              let cinq = newData.filter(function(d,i){return (d.nbPorte == "5") && (d.longueur.length > 9);});
-              for(let i = 0; i < cinq.length; i++ ){
-                filteredData.push(cinq[i]);
-              }
-            }
-          }
-          else if(d3.select("#cinq").property("checked")){
-            let cinq = filteredData.filter(function(d,i){return d.nbPorte == "5";});
-            filteredData = cinq;   
-            if(d3.select("#trois").property("checked")){
-              let trois = newData.filter(function(d,i){return (d.nbPorte == "3") && (d.longueur.length > 9);});
-              for(let i = 0; i < trois.length; i++ ){
-                filteredData.push(trois[i]);
-              }
-            }         
-          }
-          else {
-            filteredData = newData;
-          }
+          console.log("dernier else");
           svg.selectAll("*").remove();
         }
         
-        
+        console.log("filtredData à la sortie du boucle ", filteredData);
         var max = d3.max(filteredData, function(d) { return +d.nombre} );
         filteredData.forEach(x => {
           const xValue = x => x.nombre;
