@@ -51,14 +51,8 @@
         }
 
     }
-    console.log("modelsOccasions : ",modelsOccasions );
-    console.log("modelsNeufs : ",modelsNeufs );
-    console.log("allModels : ",allModels );
 
     d3.select("#graphe").on("change", update)
-    
-
-    
     d3.select("#trois").on("change",update);
     d3.select("#cinq").on("change",update);
     d3.select("#petite").on("change",update);
@@ -68,25 +62,21 @@
     d3.select("#tous").on("change",update);
 			update();
 			
-      
-      var filteredData = new Array();
-      var taille = new Array();
-    	function update(){
+      function update(){
         var newData = new Array();
+        var filteredData = new Array();
+        var taille = new Array();
+    	
         var titleText = "";
-        console.log("Update !!")
         if(d3.select("#graphe").node().value =="grapheNeuf"){
-          console.log("grapheNeuf");
           titleText = 'Les véhicules Neufs les plus achetés';
           newData = modelsNeufs;
         }
         else if(d3.select("#graphe").node().value =="grapheOccasion"){
-          console.log("grapheOccasion");
           titleText = 'Les véhicules Occasions les plus achetés';
           newData = modelsOccasions;
         }
         else if(d3.select("#graphe").node().value =="grapheAll"){
-          console.log("grapheAll");
           titleText = 'Les véhicules Neufs et Occasions les plus achetés';
           newData = allModels;
         }
@@ -95,7 +85,6 @@
         }
         if(d3.select("#trois").property("checked")){
           filteredData = newData.filter(function(d,i){return d.nbPorte == "3";});
-          svg.selectAll("*").remove();
           if(d3.select("#cinq").property("checked")){
             let cinq = newData.filter(function(d,i){return d.nbPorte == "5";});
             for(let i = 0; i < cinq.length; i++ ){
@@ -115,7 +104,7 @@
               let longue= filteredData.filter(function(d,i){return d.longueur =="longue"})
               filteredData= longue;
             }
-            else if(d3.select("#t_longue").property("checked")){
+            else{
               let t_longue= filteredData.filter(function(d,i){return d.longueur.length >9 })
               filteredData= t_longue;
             }
@@ -125,19 +114,33 @@
         }         
         else if(d3.select("#cinq").property("checked")){
           filteredData = newData.filter(function(d,i){return d.nbPorte == "5";});
-          svg.selectAll("*").remove();
           if(d3.select("#trois").property("checked")){
             let trois = newData.filter(function(d,i){return d.nbPorte == "3";});
             for(let i = 0; i < trois.length; i++ ){
-              newData.push(trois[i]);
+              filteredData.push(trois[i]);
             }
-            console.log("filteredData => ", filteredData)
+            if(d3.select("#petite").property("checked")){
+              taille= filteredData.filter(function(d,i){return d.longueur =="courte"})
+              console.log("taille =>", taille);
+              filteredData= taille;
+            }
+            else if(d3.select("#moyenne").property("checked")){
+              let moyenne= filteredData.filter(function(d,i){return d.longueur =="moyenne"})
+              filteredData= moyenne;
+            }
+            else if(d3.select("#longue").property("checked")){
+              let longue= filteredData.filter(function(d,i){return d.longueur =="longue"})
+              filteredData= longue;
+            }
+            else{
+              let t_longue= filteredData.filter(function(d,i){return d.longueur.length >9 })
+              filteredData= t_longue;
+            }
             svg.selectAll("*").remove();
           }
         }
         else {
           filteredData = newData;	
-          console.log("new Date sans checkBox=> ", newData);
           svg.selectAll("*").remove();
         }	
         if(d3.select("#petite").property("checked")){
