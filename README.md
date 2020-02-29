@@ -1,4 +1,4 @@
-# Univeristé Nice Cote d'Azur - Master 2 MBDS
+# Univeristé Cote d'Azur - Master 2 MBDS
 ## Data Visualization
 ### Groupe 2 MASLOW
 ## Etudiants
@@ -23,8 +23,8 @@ Liste des graphes réalisés :
 ### 2.Liste des deuxiemes voiture acheté par chaque type de client (graph1)
 ### 3.Nombre de voitures selon la marque  (graph2)
 ### 4.Capacité de la voiture en fonction de la situation familiale (graph3)
-### 5.Nombre de Vente par modèle (graph5)
-### 6.Répartition des modeles des vehicules en fonction de prix, puissance et typemodel(graph6)
+### 5.Nombre de Vente par modèle (graph4)
+### 6.Répartition des vehicules en fonction du prix, de la puissance et du model(graph5)
 
 ## Execution sur le serveur 
 Il est préférable d'exécuter l'exemple dans WEB Server pour Chrome (200 OK).
